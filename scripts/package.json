@@ -1,0 +1,30 @@
+{
+  "name": "html2md",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.ts",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "tsx index.ts"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/WuNanoLab/WuNanoLab.github.io.git"
+  },
+  "author": "v_s",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/WuNanoLab/WuNanoLab.github.io/issues"
+  },
+  "homepage": "https://github.com/WuNanoLab/WuNanoLab.github.io#readme",
+  "dependencies": {
+    "@google/genai": "^1.20.0",
+    "cheerio": "^1.1.2",
+    "tsx": "^4.20.5",
+    "turndown": "^7.2.1"
+  },
+  "devDependencies": {
+    "@types/node": "^24.5.2",
+    "@types/turndown": "^5.0.5"
+  }
+}
