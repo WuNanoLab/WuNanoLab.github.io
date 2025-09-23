@@ -64,7 +64,7 @@ async function news() {
             `https://www.wunanolab.com/_api/blog-frontend-adapter-public/v2/post-feed-page?includeContent=true&languageCode=en&page=${page}&pageSize=10&type=ALL_POSTS`,
             {
                 headers: {
-                    Authorization: 'KRXXhP1guD-vSc9NM2nI_12Rg_XkSiOnuXtMLWoc5_c.eyJpbnN0YW5jZUlkIjoiZTUzMTllZTAtNDY4ZC00YTUxLWJiNzEtZWNkZDczMjFkMjAwIiwiYXBwRGVmSWQiOiIyMmJlZjM0NS0zYzViLTRjMTgtYjc4Mi03NGQ0MDg1MTEyZmYiLCJtZXRhU2l0ZUlkIjoiZTUzMTllZTAtNDY4ZC00YTUxLWJiNzEtZWNkZDczMjFkMjAwIiwic2lnbkRhdGUiOiIyMDI1LTA5LTIyVDAzOjM4OjU3LjI2NFoiLCJkZW1vTW9kZSI6ZmFsc2UsImFpZCI6Ijk1YjRkMzZiLWI0MjgtNDViYy1iMmFiLTBkYmYwZmE0M2E1ZiIsInNpdGVPd25lcklkIjoiZDljOTNiOWMtY2U2OC00OWE2LTk5MmEtNjM4MmM3ZGE1MWRmIiwiYnMiOiJyT241SWhneEZtbEljNmdGNXZKUE5jMXBRYTg1eXRaQ3pKM1hxaGlFMGprIiwic2NkIjoiMjAyMi0wNS0wOFQxNzoxNDozMi40NjhaIiwic3MiOmZhbHNlfQ'
+                    Authorization: ''
                 }
             }
         );
