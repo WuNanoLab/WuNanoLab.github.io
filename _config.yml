@@ -21,6 +21,7 @@ author: Dr. Wu
 ###############################################
 
 navbar-links:
+  Home: "/"
   Research: "/_pages/research"
   Publications: "/_pages/publications"
 
