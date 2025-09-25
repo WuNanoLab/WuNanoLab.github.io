@@ -13,16 +13,16 @@ layout: page
     <article>
 
       {%- capture thumbnail -%}
-        {% if post.thumbnail-img %}
-          {{ post.thumbnail-img }}
-        {% elsif post.cover-img %}
-          {% if post.cover-img.first %}
-            {{ post.cover-img[0].first.first }}
-          {% else %}
-            {{ post.cover-img }}
-          {% endif %}
-        {% else %}
-        {% endif %}
+      {% if post.thumbnail-img %}
+      {{ post.thumbnail-img }}
+      {% elsif post.cover-img %}
+      {% if post.cover-img.first %}
+      {{ post.cover-img[0].first.first }}
+      {% else %}
+      {{ post.cover-img }}
+      {% endif %}
+      {% else %}
+      {% endif %}
       {% endcapture %}
       {% assign thumbnail=thumbnail | strip %}
 
@@ -40,14 +40,14 @@ layout: page
         <h2 class="post-title">{{ post.title | strip_html }}</h2>
 
         {% if post.subtitle %}
-          <h3 class="post-subtitle">
+        <h3 class="post-subtitle">
           {{ post.subtitle | strip_html }}
-          </h3>
+        </h3>
         {% endif %}
       </a>
 
       {% if post.author %}
-        <span>By <strong>{{ post.author | strip_html }}</strong></span>
+      <span>By <strong>{{ post.author | strip_html }}</strong></span>
       {% endif %}
       <p class="post-meta">
         {% assign date_format = site.date_format | default: "%B %-d, %Y" %}
@@ -76,7 +76,7 @@ layout: page
         {{ post.excerpt | strip_html | truncatewords: excerpt_length }}
         {% assign excerpt_word_count = post.excerpt | number_of_words %}
         {% if post.content != post.excerpt or excerpt_word_count > excerpt_length %}
-          <a href="{{ post.url | absolute_url }}" class="post-read-more">[Read&nbsp;More]</a>
+        <a href="{{ post.url | absolute_url }}" class="post-read-more">[Read&nbsp;More]</a>
         {% endif %}
       </div>
       {% endunless %}
@@ -120,3 +120,62 @@ layout: page
   {% endif %}
 </ul>
 {% endif %}
+
+<div class="horizontal-rule"></div>
+<h1>Sponsors</h1>
+<div id="sponsors-grid">
+  <div class="sponsor-entry">
+    <img src="/assets/img/sponsors/nigms.avif" />
+    <p>NIH NIGMS</p>
+  </div>
+  <div class="sponsor-entry">
+    <img src="/assets/img/sponsors/nibib.avif" />
+    <p>NIH NIBIB</p>
+  </div>
+  <div class="sponsor-entry">
+    <img src="/assets/img/sponsors/nhlbi.avif" />
+    <p>NIH NHLBI</p>
+  </div>
+  <div class="sponsor-entry">
+    <img src="/assets/img/sponsors/NSF.avif" />
+    <p>NSF EDU</p>
+  </div>
+  <div class="sponsor-entry">
+    <img src="/assets/img/sponsors/coe.avif" />
+    <p>TTU COE</p>
+  </div>
+  <div class="sponsor-entry">
+    <img src="/assets/img/sponsors/ordc.avif" />
+    <p>TTU ORDC</p>
+  </div>
+</div>
+
+<style>
+  #sponsors-grid {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    gap: 20px;
+  }
+
+  .sponsor-entry {
+    flex: 0 1 150px;
+    text-align: center;
+  }
+
+  .sponsor-entry img {
+    width: 100%;
+    max-width: 140px;
+    aspect-ratio: 1 / 1;
+    border-radius: 50%;
+    object-fit: cover;
+    margin: 0 auto;
+    display: block;
+  }
+
+  .sponsor-entry p {
+    margin-top: 10px;
+    font-size: 1rem;
+    color: #555;
+  }
+</style>
