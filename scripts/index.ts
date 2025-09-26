@@ -74,4 +74,17 @@ async function news() {
     }
 }
 
-news();
+function addPDF() {
+    const pdfList = ["Small (2024)", "Advanced Healthcare Materials (2024)", "ACS Applied Nano Materials (2021)", "Elsevier (Book, 2024)", "Journal of Physics D: Applied Physics (2025)", "AIP Advances (2025)", "IEEE Transactions on Magnetics (2025)", "Physica Scripta (2025)", "Biomedical Physics & Engineering Express (2025)", "Journal of Vacuum Science & Technology B (2024)", "Journal of Neural Engineering (2023)", "Nanotechnology (2022)", "Journal of Neural Engineering (2022)", "Frontiers in Microbiology (2016)", "ACS Sensors (2017)", "Biosensors and Bioelectronics (2019)", "ACS Applied Materials & Interfaces (2022)", "Frontiers in Microbiology (2019)", "npj Spintronics (2024)", "ACS Applied Bio Materials (2023)", "Advanced Materials Interfaces (2023)", "Sensors and Actuators A: Physical (2023)", "ACS Applied Nano Materials (2020)", "ACS Applied Materials & Interfaces (2020)", "ACS Applied Materials & Interfaces (2021)", "ACS Applied Materials & Interfaces (2019)", "Small (2017)", "The Journal of Physical Chemistry C (2021)", "The Journal of Physical Chemistry C (2022)", "ACS Applied Nano Materials (2022)", "Journal of Magnetism and Magnetic Materials (2019)", "Journal of Physics D: Applied Physics (2019)", "The Journal of Physical Chemistry C (2019)", "Journal of Applied Physics (2019)", "Nanotechnology (2020)", "arXiv:2501.11196", "arXiv:2411.17870"];
+    let md = fs.readFileSync('../_pages/research.md', 'utf-8');
+    for (const item of pdfList) {
+        const idx = md.indexOf(item);
+        const end = md.indexOf(')', idx + item.length);
+        const fileName = item.replace(/[\/:\s]/g, '_');
+        const filePath = `/assets/att/${fileName}.pdf`;
+        const iconPath = `/assets/img/download.svg`;
+        md = `${md.slice(0, end + 1)}[![PDF](${iconPath})](${filePath})${md.slice(end + 1)}`;
+    }
+    console.log(md);
+    fs.writeFileSync('../_pages/research.md', md);
+}
