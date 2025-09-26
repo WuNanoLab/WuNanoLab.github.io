@@ -21,8 +21,13 @@ author: Dr. Wu
 ###############################################
 
 navbar-links:
+  Home: "/"
+  People: "/_pages/people"
   Research: "/_pages/research"
   Publications: "/_pages/publications"
+  Equipment: "/_pages/equipment"
+  Gallery: "/_pages/gallery"
+  Journal Club: "/_pages/jc"
 
 include:
   - _pages
@@ -33,7 +38,7 @@ include:
 
 # Image to show in the navigation bar - works best with a square image
 # Remove this parameter if you don't want an image in the navbar
-avatar: "https://www.ttu.edu/_resources/homepage/images/ribbon-double-t.svg"
+avatar: "/assets/img/ttu.svg"
 
 # By default, the image is cut into a circle. You can disable this behaviour by setting 'round-avatar: false'
 round-avatar: true

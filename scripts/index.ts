@@ -64,7 +64,7 @@ async function news() {
             `https://www.wunanolab.com/_api/blog-frontend-adapter-public/v2/post-feed-page?includeContent=true&languageCode=en&page=${page}&pageSize=10&type=ALL_POSTS`,
             {
                 headers: {
-                    Authorization: 'KRXXhP1guD-vSc9NM2nI_12Rg_XkSiOnuXtMLWoc5_c.eyJpbnN0YW5jZUlkIjoiZTUzMTllZTAtNDY4ZC00YTUxLWJiNzEtZWNkZDczMjFkMjAwIiwiYXBwRGVmSWQiOiIyMmJlZjM0NS0zYzViLTRjMTgtYjc4Mi03NGQ0MDg1MTEyZmYiLCJtZXRhU2l0ZUlkIjoiZTUzMTllZTAtNDY4ZC00YTUxLWJiNzEtZWNkZDczMjFkMjAwIiwic2lnbkRhdGUiOiIyMDI1LTA5LTIyVDAzOjM4OjU3LjI2NFoiLCJkZW1vTW9kZSI6ZmFsc2UsImFpZCI6Ijk1YjRkMzZiLWI0MjgtNDViYy1iMmFiLTBkYmYwZmE0M2E1ZiIsInNpdGVPd25lcklkIjoiZDljOTNiOWMtY2U2OC00OWE2LTk5MmEtNjM4MmM3ZGE1MWRmIiwiYnMiOiJyT241SWhneEZtbEljNmdGNXZKUE5jMXBRYTg1eXRaQ3pKM1hxaGlFMGprIiwic2NkIjoiMjAyMi0wNS0wOFQxNzoxNDozMi40NjhaIiwic3MiOmZhbHNlfQ'
+                    Authorization: ''
                 }
             }
         );
@@ -74,4 +74,17 @@ async function news() {
     }
 }
 
-news();
+function addPDF() {
+    const pdfList = ["Small (2024)", "Advanced Healthcare Materials (2024)", "ACS Applied Nano Materials (2021)", "Elsevier (Book, 2024)", "Journal of Physics D: Applied Physics (2025)", "AIP Advances (2025)", "IEEE Transactions on Magnetics (2025)", "Physica Scripta (2025)", "Biomedical Physics & Engineering Express (2025)", "Journal of Vacuum Science & Technology B (2024)", "Journal of Neural Engineering (2023)", "Nanotechnology (2022)", "Journal of Neural Engineering (2022)", "Frontiers in Microbiology (2016)", "ACS Sensors (2017)", "Biosensors and Bioelectronics (2019)", "ACS Applied Materials & Interfaces (2022)", "Frontiers in Microbiology (2019)", "npj Spintronics (2024)", "ACS Applied Bio Materials (2023)", "Advanced Materials Interfaces (2023)", "Sensors and Actuators A: Physical (2023)", "ACS Applied Nano Materials (2020)", "ACS Applied Materials & Interfaces (2020)", "ACS Applied Materials & Interfaces (2021)", "ACS Applied Materials & Interfaces (2019)", "Small (2017)", "The Journal of Physical Chemistry C (2021)", "The Journal of Physical Chemistry C (2022)", "ACS Applied Nano Materials (2022)", "Journal of Magnetism and Magnetic Materials (2019)", "Journal of Physics D: Applied Physics (2019)", "The Journal of Physical Chemistry C (2019)", "Journal of Applied Physics (2019)", "Nanotechnology (2020)", "arXiv:2501.11196", "arXiv:2411.17870"];
+    let md = fs.readFileSync('../_pages/research.md', 'utf-8');
+    for (const item of pdfList) {
+        const idx = md.indexOf(item);
+        const end = md.indexOf(')', idx + item.length);
+        const fileName = item.replace(/[\/:\s]/g, '_');
+        const filePath = `/assets/att/${fileName}.pdf`;
+        const iconPath = `/assets/img/download.svg`;
+        md = `${md.slice(0, end + 1)}[![PDF](${iconPath})](${filePath})${md.slice(end + 1)}`;
+    }
+    console.log(md);
+    fs.writeFileSync('../_pages/research.md', md);
+}
