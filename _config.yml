@@ -22,8 +22,12 @@ author: Dr. Wu
 
 navbar-links:
   Home: "/"
+  People: "/_pages/people"
   Research: "/_pages/research"
   Publications: "/_pages/publications"
+  Equipment: "/_pages/equipment"
+  Gallery: "/_pages/gallery"
+  Journal Club: "/_pages/jc"
 
 include:
   - _pages
