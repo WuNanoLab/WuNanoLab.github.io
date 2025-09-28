@@ -1,7 +1,7 @@
 ---
 layout: page
 title: TTU BioMed Journal Club
-subtitle: 
+permalink: /biomed/
 ---
 
 ## to be added

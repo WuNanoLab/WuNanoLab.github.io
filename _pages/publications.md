@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Publications
-subtitle: publications
+permalink: publications
 ---
 
 ## 2025

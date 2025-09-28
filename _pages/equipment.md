@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Lab Equipments
-subtitle: 
+permalink: /equipment/
 ---
 
 ## to be added

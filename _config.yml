@@ -22,11 +22,11 @@ author: Dr. Wu
 
 navbar-links:
   Home: "/"
-  Members: "/_pages/members"
-  Research: "/_pages/research"
-  Publications: "/_pages/publications"
-  Equipment: "/_pages/equipment"
-  BioMed: "/_pages/biomed"
+  Research: "/research"
+  Team: "/team"
+  Publications: "/publications"
+  Equipment: "/equipment"
+  BioMed: "/biomed"
 
 include:
   - _pages
