@@ -11,7 +11,6 @@
 
 # Name of website
 title: Wu Research Lab
-title-img: "/assets/img/Group-logo-no-background.avif"
 
 # Your name to show in the footer
 author: Dr. Wu
@@ -22,12 +21,11 @@ author: Dr. Wu
 
 navbar-links:
   Home: "/"
-  People: "/_pages/people"
-  Research: "/_pages/research"
-  Publications: "/_pages/publications"
-  Equipment: "/_pages/equipment"
-  Gallery: "/_pages/gallery"
-  Journal Club: "/_pages/jc"
+  Research: "/research"
+  Team: "/team"
+  Publications: "/publications"
+  Equipment: "/equipment"
+  BioMed: "/biomed"
 
 include:
   - _pages

@@ -16,6 +16,14 @@
             "problemMatcher": ["$tsc"],
             "label": "npm: build - scripts",
             "detail": "tsx index.ts",
+        },
+        {
+            "type": "npm",
+            "script": "build",
+            "path": "react",
+            "problemMatcher": ["$esbuild"],
+            "label": "npm: build - react",
+            "isBackground": true,
             "group": {
                 "kind": "build",
                 "isDefault": true

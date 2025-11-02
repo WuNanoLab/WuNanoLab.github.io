@@ -1,6 +1,6 @@
 {% assign date_format = site.date_format | default: "%B %-d, %Y" %}
 
-{% if page.cover-img %}
+<!-- {% if page.cover-img %}
   <div id="header-big-imgs" data-num-img={% if page.cover-img.first %}{{ page.cover-img.size }}{% else %}1{% endif %}
     {% for bigimg in page.cover-img %}
     {% assign imgnum = forloop.index %}
@@ -14,7 +14,7 @@
     {% endfor %}
     {% endfor %}
   ></div>
-{% endif %}
+{% endif %} -->
 
 <header class="header-section {% if page.cover-img %}has-img{% endif %}">
 <div class="intro-header {% if page.cover-img %} big-img {% endif %}">

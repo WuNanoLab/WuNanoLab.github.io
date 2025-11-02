@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Research
-subtitle: 
+permalink: /research/
 ---
 
 ## Magnetic Nanoparticles for Biomedical Applications
