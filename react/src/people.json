@@ -1,0 +1,268 @@
+{
+  "faculty": [
+    {
+      "name": "Kai Wu",
+      "title": "Assistant Professor",
+      "department": "Electrical and Computer Engineering",
+      "contact": {
+        "email": "Kai.Wu@ttu.edu",
+        "office": "ECE 234",
+        "phone": "806.834.0778"
+      },
+      "education": [
+        "PhD, University of Minnesota (2013 - 2017)",
+        "BS, Northwestern Polytechnical University (2009 - 2013)"
+      ],
+      "editorial_positions": [
+        "Editor (Associate): IEEE Transactions on Magnetics, IEEE Sensors Journal",
+        "Editorial Board Member: ACS Applied Nano Materials, Sensors, Nanotechnology"
+      ],
+      "awards_and_honors": [
+        "World's Top 2% Scientists in Applied Physics (2022, 2023)",
+        "Senior Member, IEEE (2023 - Present)",
+        "Outstanding Faculty Mentor, TTU (2023, 2025)",
+        "Most Influential Faculty Member, TTU (2025)"
+      ],
+      "corporate_advisor": "MagTection, LLC.",
+      "avatar_filename": "2024-Kai Wu 2.jpg"
+    }
+  ],
+  "current_students": {
+    "phd_students": [
+      {
+        "name": "Bahareh Rezaei",
+        "study": "Electrical Engineering (Enrolled 2023 Fall)",
+        "research_topics": "Synthesis, Characterization & Functionalization of Magnetic Nanoparticles; Magnetic Hyperthermia.",
+        "email": "barezaei@ttu.edu",
+        "awards": [
+          "Russel H. Seacat Scholarship (2023)",
+          "TTU Distinguished Graduate Student Assistantship (DGSA, 2023)",
+          "BioMed Journal Club Best Student Presentation Award 2nd Place (2023)",
+          "ECE Journal Publication Award (2024)",
+          "BioMed Journal Club Best Student Presentation Award 2nd Place (2025)"
+        ],
+        "linkedin": "https://www.linkedin.com/in/bahar-rezaei-817a221a5/",
+        "google_scholar": "https://scholar.google.com/citations?user=khEQ1XoAAAAJ&hl=en&oi=ao",
+        "avatar_filename": "Bahareh Rezaei_JPG.jpg"
+      },
+      {
+        "name": "Kwame Afrifa Obeng-Ofori",
+        "study": "Electrical Engineering (Enrolled 2026 Spring)",
+        "research_topics": "Additive manufacturing magnetic biosensors",
+        "email": "kobengof@ttu.edu",
+        "awards": [
+          "Russel H. Seacat Scholarship (2023)",
+          "ECE Journal Publication Award (2024)",
+          "TTU Graduate Student Travel Fund (2025)",
+          "College of Engineering Graduate Student Travel Grant (2026)"
+        ],
+        "linkedin": "https://www.linkedin.com/in/kwame-afrifa-obeng-ofori-3178a0251/",
+        "google_scholar": "https://scholar.google.com/citations?user=0LdoWwgAAAAJ&hl=en&oi=ao",
+        "avatar_filename": "Kwame Afrifa Obeng-Ofori.jpeg"
+      },
+      {
+        "name": "Ebrahim Azizi",
+        "study": "Electrical Engineering (Enrolled 2023 Fall)",
+        "research_topics": "AI for Medical Image and Signal Processing; Magnetic Particle Imaging.",
+        "email": "eazizi@ttu.edu",
+        "awards": [
+          "TTU Distinguished Graduate Student Assistantship (DGSA, 2025)"
+        ],
+        "linkedin": "https://www.linkedin.com/in/ebrahim-azizi-67b6a679/",
+        "google_scholar": "https://scholar.google.com/citations?hl=en&user=HQn1jbAAAAAJ",
+        "avatar_filename": "Ebrahim.jpeg"
+      },
+      {
+        "name": "HanLei Wang",
+        "study": "Electrical Engineering (Enrolled 2025 Fall)",
+        "research_topics": "Magnetic Particle Imaging; Magnetic Particle Spectroscopy.",
+        "email": "hanlwang@ttu.edu",
+        "awards": [
+          "TTU Distinguished Graduate Student Assistantship (DGSA, 2025)"
+        ],
+        "linkedin": "https://www.linkedin.com/in/hanlei-wang-71201a2a3/",
+        "avatar_filename": "Hanlei.jpg"
+      },
+      {
+        "name": "Majid Behzadpour",
+        "study": "Electrical Engineering (Enrolled 2026 Spring)",
+        "research_topics": "AI for Healthcare.",
+        "email": "mbehzadp@ttu.edu",
+        "awards": [
+          "TTU Distinguished Graduate Student Assistantship (DGSA, 2025)"
+        ],
+        "linkedin": "https://www.linkedin.com/in/majid-behzadpour-6124431a1/?originalSubdomain=ir",
+        "avatar_filename": "Majid Behzadpour.png"
+      }
+    ],
+    "undergraduate_students": [
+      {
+        "name": "Shreenath Gandhi",
+        "study": "Computer Science (Expt 2025)",
+        "research_topics": "AI for Healthcare.",
+        "email": "shregand@ttu.edu",
+        "awards": [
+          "TrUE Scholar"
+        ],
+        "linkedin": "https://www.linkedin.com/in/shreenathgandhi/",
+        "avatar_filename": "Metallic user icon.png"
+      },
+      {
+        "name": "Aniket Avasare",
+        "study": "Computer Engineering (Expt 2027)",
+        "research_topics": "Magnetic particle imaging.",
+        "email": "aavasare@ttu.edu",
+        "awards": [
+          "Presidential Merit Scholarship (2023–2025)",
+          "Whitacre College of Engineering Scholarship (2025)",
+          "Red Raider Engineering Scholarship (2024)",
+          "TrUE Scholar"
+        ],
+        "linkedin": "https://www.linkedin.com/in/aniketavasare/",
+        "avatar_filename": "Metallic user icon.png"
+      },
+      {
+        "name": "Zainab Akano",
+        "study": "Electrical Engineering (Expt 2028)",
+        "research_topics": "AI for Healthcare. Biomedical System Circuit Design.",
+        "email": "zakano@ttu.edu",
+        "awards": [
+          "Presidential Merit Scholarship (2024)",
+          "ECE departmental Scholarship (2024)",
+          "TrUE Scholar"
+        ],
+        "linkedin": "https://www.linkedin.com/in/zainab-a-a44b2431a/",
+        "avatar_filename": "Metallic user icon.png"
+      },
+      {
+        "name": "Parth Botre",
+        "study": "Computer Science (Expt 2027)",
+        "research_topics": "Magnetic Nanoparticles and Applications. AI for Healthcare.",
+        "email": "pbotre@ttu.edu",
+        "awards": [
+          "TrUE Scholar",
+          "TTU Craig Chemistry AS Scholarship",
+          "Hulda W. Marshall Chemistry Endowed Scholarship",
+          "Alpha Lambda Delta"
+        ],
+        "linkedin": "https://www.linkedin.com/in/parth-botre/",
+        "avatar_filename": "Metallic user icon.png"
+      }
+    ],
+    "high_school_students": [
+      {
+        "name": "Hansong Zuo",
+        "school": "Lubbock High School",
+        "research_topics": "Surface Plasmon Resonance (SPR) Biosensors. Magnetization Dynamics. AI for Healthcare.",
+        "avatar_filename": "Metallic user icon.png"
+      }
+    ]
+  },
+  "alumni": {
+    "ms_students": [
+      {
+        "name": "Mohammad Al Amin",
+        "department": "ECE",
+        "duration": "01/2025-08/2025"
+      },
+      {
+        "name": "Jaiden Hart",
+        "department": "ECE",
+        "duration": "01/2025-07/2025"
+      },
+      {
+        "name": "Shivakrishna Erroju",
+        "department": "ECE",
+        "duration": "03/2024-08/2024",
+        "linkedin": "https://www.linkedin.com/in/shivakrishna-erroju-9446b6134/"
+      },
+      {
+        "name": "Naga V.R.K. Veerla",
+        "department": "ECE",
+        "duration": "09/2022-05/2023"
+      },
+      {
+        "name": "Parsa Yari",
+        "department": "ECE",
+        "duration": "09/2022 - 02/2024"
+      }
+    ],
+    "undergraduate_students": [
+      {
+        "name": "Joyadittya Barno",
+        "department": "CS",
+        "duration": "02/2025-08/2025",
+        "linkedin": "https://www.linkedin.com/in/joyadittya-barno-a859511b0/"
+      },
+      {
+        "name": "Irkan Khan",
+        "department": "EEE",
+        "duration": "12/2024-08/2025"
+      },
+      {
+        "name": "Anjali Aggarwal",
+        "department": "CS",
+        "duration": "05/2025-08/2025"
+      },
+      {
+        "name": "Jagrati Kumari",
+        "department": "CE",
+        "duration": "05/2025-08/2025"
+      },
+      {
+        "name": "Jackson Blackmon",
+        "department": "ECE",
+        "duration": "09/2024-12/2024"
+      },
+      {
+        "name": "Thao Nguyen",
+        "department": "CS",
+        "duration": "05/2024-12/2024"
+      },
+      {
+        "name": "Robert Sherrick",
+        "department": "ECE",
+        "duration": "09/2023-05/2024"
+      },
+      {
+        "name": "Sean Sanders",
+        "department": "ChE",
+        "duration": "09/2022-05/2023"
+      },
+      {
+        "name": "Kanglin Xu",
+        "department": "CS",
+        "duration": "09/2022-06/2025"
+      },
+      {
+        "name": "Haotong Wang",
+        "department": "ChE",
+        "duration": "09/2022-12/2024"
+      },
+      {
+        "name": "Nana Mprah",
+        "department": "ChE",
+        "duration": "09/2022-12/2022"
+      },
+      {
+        "name": "Helene Deng",
+        "department": "CE, Tech Intrapreneurship Program",
+        "duration": "09/2022-12/2022"
+      }
+    ],
+    "high_school_students": [
+      {
+        "name": "Nitin Janath",
+        "duration": "06/2024-08/2025"
+      },
+      {
+        "name": "Sahil Hora",
+        "duration": "06/2023 - 08/2023"
+      },
+      {
+        "name": "Kaitlyn Villarreal",
+        "duration": "06/2023 - 08/2023"
+      }
+    ]
+  }
+}
