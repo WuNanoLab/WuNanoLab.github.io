@@ -86,6 +86,11 @@ const PersonaCard = ({
         {email}
       </Link>
     ) : null,
+    phone ? (
+      <Link key="phone" href={`tel:${phone.replace(/[^\d+]/g, '')}`}>
+        {phone}
+      </Link>
+    ) : null,
     person.linkedin ? (
       <Link key="linkedin" href={person.linkedin} target="_blank" rel="noreferrer">
         LinkedIn
@@ -96,9 +101,14 @@ const PersonaCard = ({
         Google Scholar
       </Link>
     ) : null,
-    phone ? (
-      <Link key="phone" href={`tel:${phone.replace(/[^\d+]/g, '')}`}>
-        {phone}
+    person.research_gate ? (
+      <Link key="researchgate" href={person.research_gate} target="_blank" rel="noreferrer">
+        ResearchGate
+      </Link>
+    ) : null,
+    person.cv ? (
+      <Link key="cv" href={person.cv} target="_blank" rel="noreferrer">
+        CV
       </Link>
     ) : null,
   ].filter(i => !!i)

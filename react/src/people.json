@@ -23,7 +23,13 @@
         "Outstanding Faculty Mentor, TTU (2023, 2025)",
         "Most Influential Faculty Member, TTU (2025)"
       ],
-      "corporate_advisor": "MagTection, LLC.",
+      "corporate_advisor": {
+        "text": "MagTection, LLC.",
+        "link": "https://magtection.com/"
+      },
+      "research_gate": "https://www.researchgate.net/profile/Kai-Wu-24",
+      "google_scholar": "https://scholar.google.com/citations?user=g-N6KtoAAAAJ&authuser=4",
+      "cv": "https://www.dropbox.com/scl/fi/7ko4w0ry9mdwijrvxnihb/Kai-Wu_CV.docx?rlkey=qd0wqasay6ehiufgrjptb8u86&dl=0",
       "avatar_filename": "2024-Kai Wu 2.jpg"
     }
   ],
@@ -44,6 +50,24 @@
         "linkedin": "https://www.linkedin.com/in/bahar-rezaei-817a221a5/",
         "google_scholar": "https://scholar.google.com/citations?user=khEQ1XoAAAAJ&hl=en&oi=ao",
         "avatar_filename": "Bahareh Rezaei_JPG.jpg"
+      },
+      {
+        "name": "Shahriar Mostufa",
+        "study": "Electrical Engineering (Enrolled 2023 Fall)",
+        "research_topics": "Modeling of Plasmonic and Magnetic Biosensors; Magnetic Particle Imaging; Wearable Biosensors.",
+        "email": "smostufa@ttu.edu",
+        "awards": [
+          "Russel H. Seacat Scholarship (2023)",
+          "ECE Journal Publication Award (2024)",
+          "Seacat Endowment Scholarship (2024)",
+          "BioMed Journal Club Best Student Presentation Award 3rd Place (2024)",
+          "​TTU Graduate Student Travel Fund (2025)",
+          "TTU Graduate Student Travel Fund (2026)",
+          "College of Engineering Graduate Student Travel Grant (2026)"
+        ],
+        "linkedin": "https://www.linkedin.com/in/shahriar-mostufa/",
+        "google_scholar": "https://scholar.google.com/citations?user=0LdoWwgAAAAJ&hl=en&oi=ao",
+        "avatar_filename": "Shahriar Mostufa.png"
       },
       {
         "name": "Kwame Afrifa Obeng-Ofori",

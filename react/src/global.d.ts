@@ -1,4 +1,4 @@
-interface Person {
+interface Person extends Record<string, any> {
     name: string
     title?: string
     department?: string
@@ -8,7 +8,6 @@ interface Person {
     awards?: string[]
     education?: string[]
     editorial_positions?: string[]
-    corporate_advisor?: string
     contact?: {
         email?: string
         office?: string
