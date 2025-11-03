@@ -18,6 +18,12 @@ jobs:
         run: |
           echo "---" > _config_ci.yml
           echo "baseurl: ${{ steps.configure-pages.outputs.base_path }}" >> _config_ci.yml
+      - name: Build React
+        run: |
+          cd react
+          npm install
+          npm run build
+          cd ..
       - name: Build site
         env:
           JEKYLL_ENV: production

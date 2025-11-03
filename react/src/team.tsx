@@ -6,6 +6,12 @@ import {
   Persona,
   Divider,
   Image,
+  Link,
+  makeStyles,
+  tokens,
+  type AvatarSize,
+} from '@fluentui/react-components'
+import {
   Carousel,
   CarouselCard,
   CarouselNav,
@@ -13,11 +19,7 @@ import {
   CarouselNavImageButton,
   CarouselSlider,
   CarouselViewport,
-  Link,
-  makeStyles,
-  tokens,
-  type AvatarSize
-} from '@fluentui/react-components'
+} from '@fluentui/react-carousel'
 import './index.css'
 import people from './people.json'
 import photo from './photo.json'
@@ -40,7 +42,7 @@ const useStyles = makeStyles({
   },
 })
 
-const AVATAR_BASE = '/assets/people/'
+const ASSETS_BASE = __DEV__ ? '/assets/' : '/assets/react/'
 
 const usePersonaCardStyles = makeStyles({
   secondaryBlock: {
@@ -120,7 +122,7 @@ const PersonaCard = ({
       size="huge"
       avatar={person.avatar_filename ? {
         size,
-        image: { src: `${AVATAR_BASE}${person.avatar_filename}` },
+        image: { src: `${ASSETS_BASE}people/${person.avatar_filename}` },
         color: 'colorful',
       } : undefined}
       secondaryText={
@@ -251,7 +253,7 @@ const PhotoSection = () => {
             {photo.map((img, index) => (
               <CarouselCard key={index}>
                 <Image
-                  src={`/assets/photo/${img.filename}`}
+                  src={`${ASSETS_BASE}photo/${img.filename}`}
                   alt={img.title ?? `Photo ${index + 1}`}
                   width={600}
                   height={400}
@@ -267,7 +269,7 @@ const PhotoSection = () => {
             {index => (
               <CarouselNavImageButton
                 key={index}
-                image={{ src: `/assets/photo/${photo[index].filename}` }}
+                image={{ src: `${ASSETS_BASE}photo/${photo[index].filename}` }}
               />
             )}
           </CarouselNav>

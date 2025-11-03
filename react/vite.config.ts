@@ -54,6 +54,9 @@ function moveToJekyll(): Plugin {
 
 export default defineConfig(({ command }) => ({
   base: command === 'build' ? '/assets/react/' : '/',
+  define: {
+    __DEV__: command !== 'build',
+  },
   plugins: [react(), moveToJekyll()],
   build: {
     emptyOutDir: true,

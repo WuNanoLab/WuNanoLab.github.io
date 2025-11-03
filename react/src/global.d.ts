@@ -20,3 +20,5 @@ interface Person {
     duration?: string
     avatar_filename?: string
 }
+
+declare const __DEV__: boolean
