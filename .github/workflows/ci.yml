@@ -1,5 +1,14 @@
 name: Beautiful Jekyll CI
-on: [push, pull_request]
+on:
+  push:
+  pull_request:
+  workflow_dispatch:
+    inputs:
+      deploy_preview:
+        description: Deploy GitHub Pages preview and output URL
+        required: true
+        type: boolean
+        default: true
 jobs:
   build:
     name: Build Jekyll
@@ -30,3 +39,26 @@ jobs:
         run: bundle exec appraisal jekyll build --future --config _config_ci.yml,_config.yml
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v3
+
+  deploy:
+    name: Deploy Preview
+    if: inputs.deploy_preview
+    needs: build
+    runs-on: ubuntu-latest
+    permissions:
+      pages: write
+      id-token: write
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    steps:
+      - name: Deploy to GitHub Pages
+        id: deployment
+        uses: actions/deploy-pages@v4
+        with:
+          preview: true
+
+      - name: Output preview link
+        run: |
+          echo "### GitHub Pages Preview" >> "$GITHUB_STEP_SUMMARY"
+          echo "${{ steps.deployment.outputs.page_url }}" >> "$GITHUB_STEP_SUMMARY"

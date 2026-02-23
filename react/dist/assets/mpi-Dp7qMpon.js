@@ -1,1 +1,0 @@
-import{c as t,j as e,r,F as o,w as s}from"./index-CFU2VY3d.js";import{A as i}from"./App-B83o1JWO.js";t.createRoot(document.getElementById("root")).render(e.jsx(r.StrictMode,{children:e.jsx(o,{theme:s,children:e.jsx(i,{})})}));
