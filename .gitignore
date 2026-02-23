@@ -1,4 +1,5 @@
 assets/react/*
+vendor/bundle/*
 
 # project
 _site
