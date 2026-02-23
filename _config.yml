@@ -300,6 +300,7 @@ exclude:
   - screenshot.png
   - docs/
   - scripts/
+  - vendor/
 
 plugins:
   - jekyll-paginate
