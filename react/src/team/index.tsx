@@ -20,7 +20,7 @@ import {
   CarouselSlider,
   CarouselViewport,
 } from '@fluentui/react-carousel'
-import './index.css'
+import '../index.css'
 import people from './people.json'
 import photo from './photo.json'
 

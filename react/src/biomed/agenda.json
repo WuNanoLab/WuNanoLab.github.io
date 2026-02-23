@@ -1,0 +1,748 @@
+{
+  "semesters": [
+    {
+      "id": "2026-spring",
+      "title": "2026 Spring",
+      "location": "ECE 226",
+      "time": "Feb 4 - Apr 29, 2026. Weekly on Wednesday 3 - 4 pm",
+      "events": [
+        {
+          "type": "presentation",
+          "date": "Feb 4",
+          "speaker": "Isabella Vasquez",
+          "advisor": "Dr. Indrajit Srivastava",
+          "title": "3D NIR-II Molecular Imaging Distinguishes Targeted Organs with High-Performance NIR-II Bioconjugates"
+        },
+        {
+          "type": "presentation",
+          "date": "Feb 11",
+          "speaker": "Baivab Bhandari",
+          "advisor": "Dr. James Yang",
+          "title": "Machine Learning Methods to Predict Unmeasured Muscle Activation in Upper Limb Reaching Task for Assessing Population-Level Cross-Subject Generalizability"
+        },
+        {
+          "type": "presentation",
+          "date": "Feb 18",
+          "speaker": "Sela Boswell",
+          "advisor": "Dr. Jenifer Gomez",
+          "title": "TBD"
+        },
+        {
+          "type": "presentation",
+          "date": "Feb 25",
+          "speaker": "Marielena Molinares Ponce",
+          "advisor": "Dr. Changxue Xu",
+          "title": "TBD"
+        },
+        {
+          "type": "presentation",
+          "date": "Mar 4",
+          "speaker": "Santiago Rodriguez Caballero",
+          "advisor": "Dr. Jenifer Gomez",
+          "title": "TBD"
+        },
+        {
+          "type": "presentation",
+          "date": "Mar 11",
+          "speaker": "Minh Duy Phan",
+          "advisor": "Dr. Jenifer Gomez",
+          "title": "TBD"
+        },
+        {
+          "type": "holiday",
+          "date": "Mar 18",
+          "title": "Spring Break",
+          "speaker": null,
+          "advisor": null
+        },
+        {
+          "type": "presentation",
+          "date": "Mar 25",
+          "speaker": "Pronob Das",
+          "advisor": "Dr. Siva Vanapalli",
+          "title": "TBD"
+        },
+        {
+          "type": "presentation",
+          "date": "Apr 1",
+          "speaker": "Mahenour Megahed",
+          "advisor": "Dr. Indrajit Srivastava",
+          "title": "TBD"
+        },
+        {
+          "type": "presentation",
+          "date": "Apr 8",
+          "speaker": "Tahmed Ahmed",
+          "advisor": "Dr. Minxiang Zeng",
+          "title": "TBD"
+        },
+        {
+          "type": "presentation",
+          "date": "Apr 15",
+          "speaker": "Shahriar Mostufa",
+          "advisor": "Dr. Kai Wu",
+          "title": "TBD"
+        },
+        {
+          "type": "presentation",
+          "date": "Apr 22",
+          "speaker": "Nisha Khatiwada",
+          "advisor": "Dr. Zhongkui Hong",
+          "title": "TBD"
+        },
+        {
+          "type": "presentation",
+          "date": "Apr 29",
+          "speaker": "Hanlei Wang",
+          "advisor": "Dr. Kai Wu",
+          "title": "TBD"
+        }
+      ],
+      "awards": null
+    },
+    {
+      "id": "2025-fall",
+      "title": "2025 Fall",
+      "location": "ECE 226",
+      "time": "Sep 3 - Nov 19, 2025. Weekly on Wednesday 3 - 4 pm",
+      "events": [
+        {
+          "type": "presentation",
+          "date": "Sep 3",
+          "speaker": "Md Abu Noman Kausar",
+          "advisor": "Emily Pereira",
+          "title": "Introduction to multifractal detrended fluctuation analysis in Matlab"
+        },
+        {
+          "type": "presentation",
+          "date": "Sep 10",
+          "speaker": "Rodrigo Agustin Hernandez Torres",
+          "advisor": "Dr. Jenifer Gomez",
+          "title": "Strategy, Design and Fabrication of Electrochemical Biosensors: A Tutorial"
+        },
+        {
+          "type": "presentation",
+          "date": "Sep 17",
+          "speaker": "Isabella Vasquez",
+          "advisor": "Dr. Indrajit Srivastava",
+          "title": "Ultrabright NIR-II Nanoprobes for Ex Vivo Bioimaging: Protein Nanoengineering Meets Molecular Engineering"
+        },
+        {
+          "type": "presentation",
+          "date": "Sep 24",
+          "speaker": "Ahasun Habib Hridoy",
+          "advisor": "Dr. Minxiang Zeng",
+          "title": "Self-Powered Electronic Skin with Multisensory Functions Based on Thermoelectric Conversion"
+        },
+        {
+          "type": "presentation",
+          "date": "Oct 1",
+          "speaker": "Matias Varrone",
+          "advisor": "Dr. Emily Pereira",
+          "title": "Brain modeling for control: A review"
+        },
+        {
+          "type": "presentation",
+          "date": "Oct 8",
+          "speaker": "Bushra Rahman",
+          "advisor": "Siva Vanapalli",
+          "title": "Development of Passive Feeding Microfluidic Platforms for C. elegans Assays"
+        },
+        {
+          "type": "presentation",
+          "date": "Oct 15",
+          "speaker": "Voshita Parvathaneni",
+          "advisor": "Dr. Jingfei Liu",
+          "title": "Understanding Time-Frequency Analysis and Its Role in ECG Analysis"
+        },
+        {
+          "type": "presentation",
+          "date": "Oct 22",
+          "speaker": "Atiyya Saroyia",
+          "advisor": "Dr. Siva Vanapalli",
+          "title": "A Comprehensive Assessment of Reproductive Toxicology in C. elegans using a Microfluidic Platform"
+        },
+        {
+          "type": "presentation",
+          "date": "Oct 29",
+          "speaker": "Bishal Karki",
+          "advisor": "Dr. James Yang & Dr. Paul Egan",
+          "title": "Biomechanical Design of Titanium-PEEK Combined Fusion Cage Based On PLIF Surgical Model"
+        },
+        {
+          "type": "presentation",
+          "date": "Nov 5",
+          "speaker": "Santiago Rafael Rodriguez Caballero",
+          "advisor": "Dr. Jenifer Gomez",
+          "title": "Quantitative Characterization of the Regulation of Iron Metabolism in Glioblastoma Stem-like Cells using Magnetophoresis"
+        },
+        {
+          "type": "presentation",
+          "date": "Nov 12",
+          "speaker": "Iyad Abuhammam",
+          "advisor": "Dr. Zhongkui Hong",
+          "title": "Optimization of Electrospun Poly(caprolactone) Fiber Diameter for Vascular Scaffolds to Maximize Smooth Muscle Cell Infiltration and Phenotype Modulation"
+        },
+        {
+          "type": "presentation",
+          "date": "Nov 19",
+          "speaker": "Bangquan Liao",
+          "advisor": "Minliang Liu",
+          "title": "Automated Discovery of Constitutive Models: From Supervised Learning to Reinforcement Learning"
+        }
+      ],
+      "awards": [
+        {
+          "place": "First Place",
+          "names": "Bushra Rahman"
+        },
+        {
+          "place": "Second Place",
+          "names": "Rodrigo Agustin Hernandez Torres"
+        },
+        {
+          "place": "Third Place",
+          "names": "Bishal Karki"
+        },
+        {
+          "place": "Rising Star",
+          "names": "Voshita Parvathaneni, Isabella Vasquez"
+        }
+      ]
+    },
+    {
+      "id": "2025-spring",
+      "title": "2025 Spring",
+      "location": "ECE 226",
+      "time": "Feb 5 - Apr 30, 2025. Weekly on Wednesday 3 - 4 pm",
+      "events": [
+        {
+          "type": "presentation",
+          "date": "Feb 5",
+          "speaker": "Hashem Saker",
+          "advisor": "Dr. Zhongkui Hong",
+          "title": "Antibacterial and Biological Properties of Coconut Oil Loaded Poly (ε-caprolactone)/gelatin Electrospun Membranes"
+        },
+        {
+          "type": "presentation",
+          "date": "Feb 12",
+          "speaker": "Md Abu Noman Kausar",
+          "advisor": "Dr. Emily Pereira",
+          "title": "Model-based Design for Seizure Control by Stimulation"
+        },
+        {
+          "type": "presentation",
+          "date": "Feb 19",
+          "speaker": "Baivab Bhandari",
+          "advisor": "Dr. James Yang",
+          "title": "A Scientific Review of Parachute Jumping Injuries"
+        },
+        {
+          "type": "presentation",
+          "date": "Feb 26",
+          "speaker": "Nguyen Thuy Linh Tran",
+          "advisor": "Dr. Jenifer Gomez",
+          "title": "Portable Cell Tracking Velocimetry for Quantification of Intracellular Fe Concentration of Blood Cells"
+        },
+        {
+          "type": "canceled",
+          "date": "Mar 5",
+          "title": "Canceled",
+          "speaker": null,
+          "advisor": null
+        },
+        {
+          "type": "presentation",
+          "date": "Mar 12",
+          "speaker": "Irkan Ashab Khan",
+          "advisor": "Dr. Kai Wu",
+          "title": "An Adaptive Brain-Computer Interface to Enhance Motor Recovery After Stroke"
+        },
+        {
+          "type": "presentation",
+          "date": "Mar 26",
+          "speaker": "Arjun Sharma",
+          "advisor": "Dr. Xiaolong Liu",
+          "title": "Enhancing Actuation in Magnetic Soft Actuators: An Inverse Design Framework Incorporating Internal Magnetic Coupling"
+        },
+        {
+          "type": "presentation",
+          "date": "Apr 2",
+          "speaker": "Md Shahriar",
+          "advisor": "Dr. Changxue Xu",
+          "title": "A Tumor-on-a-Chip System with Bioprinted Blood and Lymphatic Vessel Pair"
+        },
+        {
+          "type": "presentation",
+          "date": "Apr 9",
+          "speaker": "Andrew M Evans",
+          "advisor": "Dr. Paul Egan",
+          "title": "Experimental 3D Printed Re-entrant Auxetic and Honeycomb Spinal Cages Based on Ti-6Al-4 V: Computer-Aided Design Concept and Mechanical Characterization"
+        },
+        {
+          "type": "presentation",
+          "date": "Apr 16",
+          "speaker": "Hasnat Rashid",
+          "advisor": "Dr. Indrajit Srivastava",
+          "title": "Correlation between Cancerous Exosomes and Protein Markers Based on Surface-Enhanced Raman Spectroscopy (SERS) and Principal Component Analysis (PCA)"
+        },
+        {
+          "type": "presentation",
+          "date": "Apr 23",
+          "speaker": "Shahriar Mostufa",
+          "advisor": "Dr. Kai Wu",
+          "title": "Advancements and Perspectives in Optical Biosensors"
+        },
+        {
+          "type": "presentation",
+          "date": "Apr 30",
+          "speaker": "Bahareh Rezaei",
+          "advisor": "Dr. Kai Wu",
+          "title": "Responsive Ordered Assembly of Magnetic Nanoparticles for ROS Activatable Magnetic Particle Imaging"
+        }
+      ],
+      "awards": [
+        {
+          "place": "First Place",
+          "names": "Md Shahriar"
+        },
+        {
+          "place": "Second Place",
+          "names": "Andrew M Evans, Bahareh Rezaei"
+        },
+        {
+          "place": "Third Place",
+          "names": "Hashem Saker, Nguyen Thuy Linh Tran, Arjun Sharma"
+        }
+      ]
+    },
+    {
+      "id": "2024-fall",
+      "title": "2024 Fall",
+      "location": "ECE 226",
+      "time": "Sep 11 - Nov 20, 2024. Weekly on Wednesday 3 - 4 pm",
+      "events": [
+        {
+          "type": "presentation",
+          "date": "Sep 11",
+          "speaker": "Linh Nguyen T Tran",
+          "advisor": "Dr. Jenifer Gomez-Pastora",
+          "title": "Femtogram Resolution of Iron Content on a Per Cell Basis: Ex Vivo Storage of Human Red Blood Cells Leads to Loss of Hemoglobin"
+        },
+        {
+          "type": "presentation",
+          "date": "Sep 18",
+          "speaker": "Md Hasnat Rashid",
+          "advisor": "Dr. Indrajit Srivastava",
+          "title": "Hyper-Branched Gold Nanoconstructs for Photoacoustic Imaging in the Near-Infrared Optical Window"
+        },
+        {
+          "type": "presentation",
+          "date": "Sep 25",
+          "speaker": "Ebrahim Azizi",
+          "advisor": "Dr. Kai Wu",
+          "title": "Magnetic Particle Imaging for Highly Sensitive, Quantitative, and Safe In Vivo Gut Bleed Detection in a Murine Model"
+        },
+        {
+          "type": "presentation",
+          "date": "Oct 2",
+          "speaker": "Yuhang Du",
+          "advisor": "Dr. Minliang Liu",
+          "title": "Analyzing the Impact of Wall Stress on Aortic Expansion in Acute Uncomplicated Type B Aortic Dissection"
+        },
+        {
+          "type": "presentation",
+          "date": "Oct 9",
+          "speaker": "Zhuofan Li",
+          "advisor": "Dr. Minliang Liu",
+          "title": "The Role of Anatomic Shape Features in the Prognosis of Uncomplicated Type B Aortic Dissection Initially Treated with Optimal Medical Therapy"
+        },
+        {
+          "type": "presentation",
+          "date": "Oct 16",
+          "speaker": "Asma Harun",
+          "advisor": "Dr. Indrajit Srivastava",
+          "title": "Near-Infrared Afterglow Luminescence Amplification via Albumin Complexation of Semiconducting Polymer Nanoparticles for Surgical Navigation in Ex Vivo Porcine Models"
+        },
+        {
+          "type": "presentation",
+          "date": "Oct 23",
+          "speaker": "Azin Nadi",
+          "advisor": "Dr. Jingfei Liu",
+          "title": "Guided Wave Elastography of Human Skin with a Layered Model Incorporating the Effect of Muscle State"
+        },
+        {
+          "type": "presentation",
+          "date": "Oct 30",
+          "speaker": "Naimul Arefin",
+          "advisor": "Dr. Minxiang Zeng",
+          "title": "Alternative Sintering Processes and Their Influence on the Electrical Resistance of Printed Ag Nanoparticle Conductive Networks"
+        },
+        {
+          "type": "presentation",
+          "date": "Nov 6",
+          "speaker": "William Renter",
+          "advisor": "Dr. Paul Egan",
+          "title": "Novel Nested Metamaterials with Customized Properties"
+        },
+        {
+          "type": "presentation",
+          "date": "Nov 13",
+          "speaker": "Nisha Khatiwada",
+          "advisor": "Dr. Zhongkui Hong",
+          "title": "Dynamic Insights into Cellular Mechanics and Membrane Fluctuation in Vascular Smooth Muscle Cells"
+        },
+        {
+          "type": "presentation",
+          "date": "Nov 20",
+          "speaker": "Zhaoda Du",
+          "advisor": "Dr. Xiaolong Liu",
+          "title": "Shape-Programmable Magnetic Soft Matter"
+        }
+      ],
+      "awards": [
+        {
+          "place": "First Place",
+          "names": "Nisha Khatiwada"
+        },
+        {
+          "place": "Second Place",
+          "names": "Asma Harun, William Renter"
+        },
+        {
+          "place": "Third Place",
+          "names": "Yuhang Du, Naimul Arefin, Zhaoda Du"
+        }
+      ]
+    },
+    {
+      "id": "2024-spring",
+      "title": "2024 Spring",
+      "location": "ECE 226",
+      "time": "Jan 31 - Apr 24, 2024. Weekly on Wednesday 3 - 4 pm",
+      "events": [
+        {
+          "type": "presentation",
+          "date": "Jan 31",
+          "speaker": "Ibrahim Khalil",
+          "advisor": "Dr. Paul Egan",
+          "title": "Machine Learning Strategies for Understanding the Structure-Property Relationship of Copolymers"
+        },
+        {
+          "type": "presentation",
+          "date": "Feb 7",
+          "speaker": "Karla Mercedes Paz González",
+          "advisor": "Dr. Jenifer Gomez",
+          "title": "Enhanced Isolation of Fetal Nucleated Red Blood Cells by Enythrocyte-Leukocyte Hybrid Membrane-Coated Magnetic Nanoparticles"
+        },
+        {
+          "type": "presentation",
+          "date": "Feb 14",
+          "speaker": "Nan Zhang",
+          "advisor": "Dr. George Z. Tan",
+          "title": "Biomimetic Hydrogel Scaffolds Embedded with Porous Microtubes as Perfusion Channels"
+        },
+        {
+          "type": "presentation",
+          "date": "Feb 21",
+          "speaker": "Naimul Arefin",
+          "advisor": "Dr. Minxiang Zeng",
+          "title": "Hybrid Printing of Wearable Piezoelectric Sensors"
+        },
+        {
+          "type": "presentation",
+          "date": "Feb 28",
+          "speaker": "Asma Harun",
+          "advisor": "Dr. Indrajit Srivastava",
+          "title": "Structure−Activity Relationship of pH-Sensitive Doxorubicin-Fatty Acid Prodrug Albumin Nanoparticles"
+        },
+        {
+          "type": "canceled",
+          "date": "Mar 6",
+          "title": "Canceled"
+        },
+        {
+          "type": "holiday",
+          "date": "Mar 13",
+          "title": "Spring Break"
+        },
+        {
+          "type": "presentation",
+          "date": "Mar 20",
+          "speaker": "Gustavo Marin Paulon",
+          "advisor": "Dr. Suman Chowdhury",
+          "title": "The Effects of Firefighter Helmets on Cervical Intervertebral Kinematics: An OpenSim-Based Biomechanical Study"
+        },
+        {
+          "type": "presentation",
+          "date": "Mar 27",
+          "speaker": "Shahriar Mostufa",
+          "advisor": "Dr. Kai Wu",
+          "title": "Metamaterial As Perfect Absorber for High Sensitivity Refractive Index Based Biosensing Applications"
+        },
+        {
+          "type": "presentation",
+          "date": "Apr 3",
+          "speaker": "Zhongxi Zhou",
+          "advisor": "Dr. Zhaoming He",
+          "title": "A Novel Anisotropic Failure Criterion With Dispersed Fiber Orientations for Aortic Tissues"
+        },
+        {
+          "type": "presentation",
+          "date": "Apr 10",
+          "speaker": "Hossein Bahreinizad",
+          "advisor": "Dr. Suman Chowdhury",
+          "title": "Development and Validation of an MRI-Derived Head-Neck Finite Element Model"
+        },
+        {
+          "type": "presentation",
+          "date": "Apr 17",
+          "speaker": "Iyad Abuhammam",
+          "advisor": "Dr. Zhongkui Hong",
+          "title": "Properties of Electrospun Aligned Poly(lactic acid)/Collagen Fibers with Nanoporous Surface"
+        },
+        {
+          "type": "presentation",
+          "date": "Apr 24",
+          "speaker": "Azin Nadi",
+          "advisor": "Dr. Jingfei Liu",
+          "title": "Guided Wave Elastography of Jugular Veins: Theory, Method, and In Vivo Experiment"
+        }
+      ],
+      "awards": [
+        {
+          "place": "First Place",
+          "names": "Hossein Bahreinizad"
+        },
+        {
+          "place": "Second Place",
+          "names": "Karla Mercedes Paz González, Asma Harun"
+        },
+        {
+          "place": "Third Place",
+          "names": "Azin Nadi, Shahriar Mostufa, Zhongxi Zhou"
+        }
+      ]
+    },
+    {
+      "id": "2023-fall",
+      "title": "2023 Fall",
+      "location": "ECE 226",
+      "time": "Aug 30 - Nov 29, 2023. Weekly on Wednesday 3 - 4 pm",
+      "events": [
+        {
+          "type": "presentation",
+          "date": "Aug 30",
+          "speaker": "Imtiaz Qavi",
+          "advisor": "Dr. George Z. Tan",
+          "title": "Electrospun Microtubes As Micro-vessels for Tissue Engineering Applications"
+        },
+        {
+          "type": "presentation",
+          "date": "Sep 6",
+          "speaker": "A K M Ahasun Habib",
+          "advisor": "Dr. Paul Egan",
+          "title": "Deep-learning-based Inverse Design of Three Dimensional Architected Cellular Materials"
+        },
+        {
+          "type": "presentation",
+          "date": "Sep 13",
+          "speaker": "Nan Zhang",
+          "advisor": "Dr. George Z. Tan",
+          "title": "Biomimetic Hydrogel Scaffolds Embedded with Porous Microtubes as Perfusion Channels"
+        },
+        {
+          "type": "presentation",
+          "date": "Sep 20",
+          "speaker": "Felipe Santos",
+          "advisor": "Dr. Suman Chowdhury",
+          "title": "Firefighter Helmets and Neck Muscle Fatigue During Sustained-till-exhaustion Tasks"
+        },
+        {
+          "type": "presentation",
+          "date": "Sep 27",
+          "speaker": "Leonardo Wei",
+          "advisor": "Dr. Suman Chowdhury",
+          "title": "An Electromyography-based Multi-muscle Fatigue Model To Investigate Operational Task Performance"
+        },
+        {
+          "type": "presentation",
+          "date": "Oct 4",
+          "speaker": "Andres Mena",
+          "advisor": "Dr. James Yang",
+          "title": "Lumbar Spine Finite Element Model for Healthy Subjects: Development and Validation"
+        },
+        {
+          "type": "presentation",
+          "date": "Oct 11",
+          "speaker": "Bahareh Rezaei",
+          "advisor": "Dr. Kai Wu",
+          "title": "Synthesis of Zinc Substitution and Zinc and Manganese Substitution Magnetite Nanoparticle As MRI Contrast Agents"
+        },
+        {
+          "type": "canceled",
+          "date": "Oct 18",
+          "title": "Canceled"
+        },
+        {
+          "type": "presentation",
+          "date": "Oct 25",
+          "speaker": "Rakibul Islam",
+          "advisor": "Dr. Zhongkui Hong",
+          "title": "Inhibition of YAP Activation Attenuates Renal Injury and Fibrosis in Angiotensin II Hypertensive Mice"
+        },
+        {
+          "type": "presentation",
+          "date": "Nov 1",
+          "speaker": "Zhongxi Zhou",
+          "advisor": "Dr. Zhaoming He",
+          "title": "Transcatheter Heart Valves: A Biomaterials Perspective"
+        },
+        {
+          "type": "canceled",
+          "date": "Nov 8",
+          "title": "Canceled"
+        },
+        {
+          "type": "presentation",
+          "date": "Nov 15",
+          "speaker": "Marielena Molinares",
+          "advisor": "Dr. Changxue Xu",
+          "title": "Cancer Cell Migration: Guiding Irregular Nuclear Morphology on Nanopillar Arrays"
+        },
+        {
+          "type": "holiday",
+          "date": "Nov 22",
+          "title": "Thanksgiving Holiday"
+        },
+        {
+          "type": "presentation",
+          "date": "Nov 29",
+          "speaker": "Sanjay Mahat",
+          "advisor": "Dr. Jingfei Liu",
+          "title": "Cell Stiffness Predicts Cancer Cell Sensitivity to Ultrasound As A Selective Superficial Cancer Therapy"
+        }
+      ],
+      "awards": [
+        {
+          "place": "1st place",
+          "names": "Marielena Molinares"
+        },
+        {
+          "place": "2nd place",
+          "names": "Bahareh Rezaei, Andrés Mena"
+        },
+        {
+          "place": "3rd place",
+          "names": "Leonardo Wei, A K M Ahasun Habib, Sanjay Mahat"
+        }
+      ]
+    },
+    {
+      "id": "2023-spring",
+      "title": "2023 Spring",
+      "location": "ECE 226",
+      "time": "Feb 1 - Apr 26, 2023. Weekly on Wednesday 3 - 4 pm",
+      "events": [
+        {
+          "type": "presentation",
+          "date": "Feb 1",
+          "speaker": "Andres Mena",
+          "advisor": "Dr. James Yang",
+          "title": "Finite Element Modelling in Wrist Biomechanics: A Comprehensive Review"
+        },
+        {
+          "type": "presentation",
+          "date": "Feb 8",
+          "speaker": "Stefano Ciannella",
+          "advisor": "Dr. Jenifer Gomez Pastora",
+          "title": "A Discussion on Magnetophoresis"
+        },
+        {
+          "type": "presentation",
+          "date": "Feb 15",
+          "speaker": "Yifan Li",
+          "advisor": "Dr. Jo Woon Chong",
+          "title": "Burns Depth Assessment Using Deep Learning Features"
+        },
+        {
+          "type": "presentation",
+          "date": "Feb 22",
+          "speaker": "Parsa Yari",
+          "advisor": "Dr. Kai Wu",
+          "title": "Magnetic Particle Spectroscopy: A Technical Review"
+        },
+        {
+          "type": "presentation",
+          "date": "Mar 1",
+          "speaker": "Hashem Saker",
+          "advisor": "Dr. Zhongkui Hong",
+          "title": "Electrospun Bbiphasic Tubular Scaffold with Enhanced Mechanical Properties"
+        },
+        {
+          "type": "presentation",
+          "date": "Mar 8",
+          "speaker": "Nisha Khatiwada",
+          "advisor": "Dr. Zhongkui Hong",
+          "title": "Exploring the Difference in the Mechanics of Vascular Smooth Muscle Cells"
+        },
+        {
+          "type": "presentation",
+          "date": "Mar 22",
+          "speaker": "Zhongxi Zhou",
+          "advisor": "Dr. Zhaoming He",
+          "title": "Fully Coupled Fluid-structure Interaction Simulation of the Aortic and Mitral Valves"
+        },
+        {
+          "type": "presentation",
+          "date": "Mar 29",
+          "speaker": "Seunghun Lee",
+          "advisor": "Dr. James Yang",
+          "title": "Symmetric Tossing Motion Prediction"
+        },
+        {
+          "type": "presentation",
+          "date": "Apr 5",
+          "speaker": "Sanjay Mahat",
+          "advisor": "Dr. Jingfei Liu",
+          "title": "Effect of receptors on the resonant and transient harmonic vibrations of Coronavirus"
+        },
+        {
+          "type": "presentation",
+          "date": "Apr 12",
+          "speaker": "Jiachen Liu",
+          "advisor": "Dr. Changxue Xu",
+          "title": "Cell-Laden Bioink Circulation-Assisted Inkjet-Based Bioprinting to Mitigate Cell Sedimentation"
+        },
+        {
+          "type": "presentation",
+          "date": "Apr 19",
+          "speaker": "Sadman Labib",
+          "advisor": "Dr. Jingfei Liu",
+          "title": "Immune Modulation Resulting from MR‑guided High Intensity Focused Ultrasound"
+        },
+        {
+          "type": "presentation",
+          "date": "Apr 26",
+          "speaker": "Md Shahriar",
+          "advisor": "Dr. Changxue Xu",
+          "title": "Effects of Corona Treatment on Cellular Attachment and Morphology on PDMS Substrates"
+        }
+      ],
+      "awards": [
+        {
+          "place": "1st place",
+          "names": "Seunghun Lee"
+        },
+        {
+          "place": "2nd place",
+          "names": "Jiachen Liu, Hashem Saker"
+        },
+        {
+          "place": "3rd place",
+          "names": "Sadman Labib, Andrés Mena, Parsa Yari"
+        }
+      ]
+    }
+  ]
+}

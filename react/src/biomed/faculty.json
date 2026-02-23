@@ -1,0 +1,79 @@
+{
+  "currentFaculty": [
+    {
+      "name": "Dr. Kai Wu",
+      "department": "ECE",
+      "researchAreas": "Spintronics; Magnetic biosensors; Magnetic imaging; Magnetic nanomaterials and nanodevices; Magnetic neuromodulation and recording"
+    },
+    {
+      "name": "Dr. Jenifer Gomez Pastora",
+      "department": "ChE",
+      "researchAreas": "Microfluidics; Magnetophoresis; Blood Cells; CFD; Biosensors"
+    },
+    {
+      "name": "Dr. Zhongkui Hong",
+      "department": "ME",
+      "researchAreas": "Biomechanics in cardiovascular diseases and cancer metastasis; Mechanics in biomaterial design and tissue engineering; Stem cell-derived tissue engineering; Nanomaterials for tissue engineering and drug delivery"
+    },
+    {
+      "name": "Dr. Jingfei Liu",
+      "department": "ME",
+      "researchAreas": "Acoustics/ultrasonics; Biomedical ultrasound imaging; Biomedical ultrasound therapy; Medical devices; Biomechanics; Signal & imaging processing; Ultrasound nondestructive testing/evaluation"
+    },
+    {
+      "name": "Dr. Changxue Xu",
+      "department": "IMSE",
+      "researchAreas": "Rheology of biopolymer solutions/cell suspensions; Fabrication of microspheres/nanofibers; 3D bioprinting of living cells/tissues; 3D printing of functional materials; Electrohydrodynamic jet printing"
+    },
+    {
+      "name": "Dr. James Yang",
+      "department": "ME",
+      "researchAreas": "Biomechanics and bio-inspired systems; Robotics and multibody dynamic systems; Human modeling and simulation; Human locomotion; Slips and falls; Spine biomechanics; Human-centric design; Healthcare engineering"
+    },
+    {
+      "name": "Dr. Zhaoming He",
+      "department": "ME",
+      "researchAreas": "Heart−Valve Tissue Mechanics; Cardiovascular Mechano−Biology; Cardiovascular Medical Devices"
+    },
+    {
+      "name": "Dr. Minxiang \"Glenn\" Zeng",
+      "department": "ChE",
+      "researchAreas": "Advanced Manufacturing; Renewable Energy; Environmental Mitigation; Bioinspired Engineering; Colloid and Interface Science"
+    },
+    {
+      "name": "Dr. Paul Egan",
+      "department": "ME",
+      "researchAreas": "Design; Medicine; 3D Printing; Computing; Cognition"
+    },
+    {
+      "name": "Dr. Indrajit Srivastava",
+      "department": "ME",
+      "researchAreas": "Targeted Delivery of Nanotherapeutics; Multi-Modal Image-Guided Surgical Interventions for Cancer; Nanosensors for Early Disease Diagnosis and Monitoring"
+    },
+    {
+      "name": "Dr. Xiaolong Liu",
+      "department": "ME",
+      "researchAreas": "Medical robotics; Medical devices; Soft robotics; Computer-assisted surgery; Surgical innovation"
+    },
+    {
+      "name": "Dr. Minliang Liu",
+      "department": "ME",
+      "researchAreas": "Cardiovascular biomechanics; Data-driven and physics-informed machine learning; Inverse methods; Tissue mechanical testing; Constitutive modeling"
+    },
+    {
+      "name": "Dr. Emily Pereira",
+      "department": "ECE",
+      "researchAreas": "Control theory; Cyber-Physical Systems; Complex Networks; Dynamical Systems; Fractional-Order Systems; Epilepsy"
+    },
+    {
+      "name": "Dr. Siva A. Vanapalli",
+      "department": "ChE",
+      "researchAreas": "Microfluidics; Fluid mechanics of drops, polymer solutions and cells; Tumor cell mechanics and cancer diagnostics; Devices for drug screening; Devices for C. elegans biology"
+    }
+  ],
+  "formerFaculty": [
+    "Dr. Suman K. Chowdhury",
+    "Dr. George Zhuo Tan",
+    "Dr. Jo Woon Chong"
+  ]
+}
