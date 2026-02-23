@@ -42,7 +42,7 @@ jobs:
 
   deploy:
     name: Deploy Preview
-    if: github.event_name == 'workflow_dispatch' && inputs.deploy_preview
+    if: inputs.deploy_preview
     needs: build
     runs-on: ubuntu-latest
     permissions:
