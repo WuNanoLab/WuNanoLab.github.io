@@ -61,6 +61,13 @@ export default defineConfig(({ command }) => ({
   build: {
     emptyOutDir: true,
     rollupOptions: {
+      output: {
+        manualChunks(id) {
+          if (id.includes('/node_modules/@fluentui/react-carousel/')) {
+            return 'fluent-carousel'
+          }
+        }
+      },
       input: fs.readdirSync(path.resolve(__dirname, 'pages'), { withFileTypes: true })
         .filter(dirent => dirent.isFile() && dirent.name.endsWith('.html'))
         .map(dirent => path.resolve(__dirname, 'pages', dirent.name))
