@@ -78,6 +78,9 @@ export const EquipmentGallery = ({ data }: EquipmentGalleryProps) => {
                     src={item.image}
                     alt={item.name}
                     className={styles.image}
+                    onError={(e) => {
+                      (e.currentTarget as HTMLImageElement).src = "/assets/equipment/placeholder.svg";
+                    }}
                   />
                 </CardPreview>
                 <div className={styles.footer}>

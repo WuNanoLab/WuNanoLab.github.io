@@ -5,55 +5,55 @@
       "items": [
         {
           "name": "TBS 2000B",
-          "image": "/assets/equipment/TBS 2000B.jpeg"
+          "image": "/assets/equipment/tbs-2000b.jpeg"
         },
         {
           "name": "LCR-6300",
-          "image": "/assets/equipment/LCR-6300.jpeg"
+          "image": "/assets/equipment/lcr-6300.jpeg"
         },
         {
           "name": "Magnetic Probe Station",
-          "image": "/assets/equipment/Magnetic Probe Station.JPG"
+          "image": "/assets/equipment/magnetic-probe-station.jpg"
         },
         {
           "name": "Vacuum Oven",
-          "image": "/assets/equipment/Vacuum Oven.jpg"
+          "image": "/assets/equipment/vacuum-oven.jpg"
         },
         {
           "name": "Natural Convection Oven",
-          "image": "/assets/equipment/Natural Convection Oven.jpg"
+          "image": "/assets/equipment/natural-convection-oven.jpg"
         },
         {
           "name": "Ball Miller",
-          "image": "/assets/equipment/IMG_8219.jpeg"
+          "image": "/assets/equipment/img-8219.jpeg"
         },
         {
           "name": "RIGOL DP832 Power Supply",
-          "image": "/assets/equipment/RIGOLDP832 Power Supply.jpeg"
+          "image": "/assets/equipment/rigol-dp832-power-supply.jpeg"
         },
         {
           "name": "SR560 Low-Noise Preamplifier",
-          "image": "/assets/equipment/SR560.jpeg"
+          "image": "/assets/equipment/sr560.jpeg"
         },
         {
           "name": "Linear Amplifier",
-          "image": "/assets/equipment/Linear Amplifier.jpg"
+          "image": "/assets/equipment/linear-amplifier.jpg"
         },
         {
           "name": "DAQ",
-          "image": "/assets/equipment/DAQ.jpg"
+          "image": "/assets/equipment/daq.jpg"
         },
         {
           "name": "Gauss Meter",
-          "image": "/assets/equipment/Gauss Meter.jpeg"
+          "image": "/assets/equipment/gauss-meter.jpeg"
         },
         {
           "name": "Digital Multimeter",
-          "image": "/assets/equipment/Multi-meter.jpeg"
+          "image": "/assets/equipment/multi-meter.jpeg"
         },
         {
           "name": "Electric Bench",
-          "image": "/assets/equipment/IMG_8220.jpeg"
+          "image": "/assets/equipment/img-8220.jpeg"
         }
       ]
     },
@@ -62,71 +62,71 @@
       "items": [
         {
           "name": "MagnethermTM RC - NAN201006",
-          "image": "/assets/equipment/IMG_2118.jpeg"
+          "image": "/assets/equipment/img-2118.jpeg"
         },
         {
           "name": "NanoSPR77 Dual Channel Electrochemical SPR Spectrometer",
-          "image": "/assets/equipment/NanoSPR 77.jpeg"
+          "image": "/assets/equipment/nanospr-77.jpeg"
         },
         {
           "name": "Microscopes",
-          "image": "/assets/equipment/IMG_5543.jpeg"
+          "image": "/assets/equipment/img-5543.jpeg"
         },
         {
           "name": "-20°C / 4°C Fridge",
-          "image": "/assets/equipment/IMG_8217.jpeg"
+          "image": "/assets/equipment/img-8217.jpeg"
         },
         {
           "name": "Electronic Balance",
-          "image": "/assets/equipment/Electronic Balance.jpeg"
+          "image": "/assets/equipment/electronic-balance.jpeg"
         },
         {
           "name": "High Speed Microcentrifuge",
-          "image": "/assets/equipment/IMG_8209.jpeg"
+          "image": "/assets/equipment/img-8209.jpeg"
         },
         {
           "name": "ONiLAB Professional PRP Centrifuge Machine",
-          "image": "/assets/equipment/IMG_4471.jpeg"
+          "image": "/assets/equipment/img-4471.jpeg"
         },
         {
           "name": "Ultrasonic Cleaner",
-          "image": "/assets/equipment/IMG_8207.jpeg"
+          "image": "/assets/equipment/img-8207.jpeg"
         },
         {
           "name": "Hotplate",
-          "image": "/assets/equipment/IMG_8212.jpeg"
+          "image": "/assets/equipment/img-8212.jpeg"
         },
         {
           "name": "LCD Weighing Scale",
-          "image": "/assets/equipment/IMG_8206.jpeg"
+          "image": "/assets/equipment/img-8206.jpeg"
         },
         {
           "name": "Single-Channel Variable Volume Pipettors",
-          "image": "/assets/equipment/IMG_8211.jpeg"
+          "image": "/assets/equipment/img-8211.jpeg"
         },
         {
           "name": "LCD Digital Microscope",
-          "image": "/assets/equipment/IMG_8218.jpeg"
+          "image": "/assets/equipment/img-8218.jpeg"
         },
         {
           "name": "Mini Vortex Mixer",
-          "image": "/assets/equipment/IMG_8210.jpeg"
+          "image": "/assets/equipment/img-8210.jpeg"
         },
         {
           "name": "Nutating Mixer",
-          "image": "/assets/equipment/Nutating Mixer.jpeg"
+          "image": "/assets/equipment/nutating-mixer.jpeg"
         },
         {
           "name": "VWR® Professional Hotplate-Stirrers",
-          "image": "/assets/equipment/IMG_4472.jpeg"
+          "image": "/assets/equipment/img-4472.jpeg"
         },
         {
           "name": "VWR® pHenomenal® pH/mV/°C Meter",
-          "image": "/assets/equipment/IMG_4473.jpeg"
+          "image": "/assets/equipment/img-4473.jpeg"
         },
         {
           "name": "Mini Ultrasonic Cleaner",
-          "image": "/assets/equipment/IMG_2119.jpeg"
+          "image": "/assets/equipment/img-2119.jpeg"
         }
       ]
     }
