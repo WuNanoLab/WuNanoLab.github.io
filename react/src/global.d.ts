@@ -1,4 +1,4 @@
-interface Person extends Record<string, any> {
+interface Person extends Record<string, unknown> {
     name: string
     title?: string
     department?: string
