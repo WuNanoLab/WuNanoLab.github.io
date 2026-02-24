@@ -7,6 +7,24 @@ import {
   Divider,
 } from "@fluentui/react-components";
 
+type EquipmentItem = {
+  name: string;
+  image: string;
+};
+
+type EquipmentSection = {
+  title: string;
+  items: EquipmentItem[];
+};
+
+type EquipmentGalleryData = {
+  sections: EquipmentSection[];
+};
+
+type EquipmentGalleryProps = {
+  data: EquipmentGalleryData;
+};
+
 const useStyles = makeStyles({
   container: {
     padding: tokens.spacingHorizontalXL
@@ -41,7 +59,7 @@ const useStyles = makeStyles({
   },
 });
 
-export const EquipmentGallery = ({ data }) => {
+export const EquipmentGallery = ({ data }: EquipmentGalleryProps) => {
   const styles = useStyles();
 
   return (
