@@ -25,6 +25,8 @@ type EquipmentGalleryProps = {
   data: EquipmentGalleryData;
 };
 
+const ASSETS_BASE = __DEV__ ? '/assets/' : '/assets/react/'
+
 const useStyles = makeStyles({
   container: {
     padding: tokens.spacingHorizontalXL
@@ -75,7 +77,7 @@ export const EquipmentGallery = ({ data }: EquipmentGalleryProps) => {
               <Card key={iIdx} className={styles.card} appearance="filled-alternative">
                 <CardPreview>
                   <img
-                    src={item.image}
+                    src={`${ASSETS_BASE}equipment/${item.image}`}
                     alt={item.name}
                     className={styles.image}
                   />

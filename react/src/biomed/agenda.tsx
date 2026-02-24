@@ -1,7 +1,6 @@
 import { useState } from "react";
 import {
   makeStyles,
-  shorthands,
   tokens,
   TabList,
   Tab,
@@ -16,6 +15,7 @@ import {
   MessageBarBody,
   MessageBarTitle,
   Badge,
+  type SelectTabEventHandler
 } from "@fluentui/react-components";
 import agendaData from './agenda.json'
 
@@ -23,16 +23,16 @@ const useStyles = makeStyles({
   container: {
     display: "flex",
     flexDirection: "column",
-    ...shorthands.gap(tokens.spacingVerticalL),
-    ...shorthands.padding(tokens.spacingHorizontalL),
+    gap: tokens.spacingVerticalL,
+    padding: tokens.spacingHorizontalL,
   },
   infoSection: {
     display: "flex",
     flexDirection: "column",
-    ...shorthands.gap(tokens.spacingVerticalS),
+    gap: tokens.spacingVerticalS,
     backgroundColor: tokens.colorNeutralBackground2,
-    ...shorthands.padding(tokens.spacingHorizontalM),
-    ...shorthands.borderRadius(tokens.borderRadiusMedium),
+    padding: tokens.spacingHorizontalM,
+    borderRadius: tokens.borderRadiusMedium,
   },
   tableContainer: {
     overflowX: "auto", // 保证小屏幕下表格可以横向滚动
@@ -50,7 +50,7 @@ const useStyles = makeStyles({
     marginTop: tokens.spacingVerticalL,
     display: "flex",
     flexDirection: "column",
-    ...shorthands.gap(tokens.spacingVerticalS),
+    gap: tokens.spacingVerticalS,
   },
 });
 
@@ -60,8 +60,8 @@ export const AgendaSection = () => {
   // 默认选中第一个学期
   const [selectedValue, setSelectedValue] = useState(agendaData.semesters[0].id);
 
-  const onTabSelect = (_: any, data: any) => {
-    setSelectedValue(data.value);
+  const onTabSelect: SelectTabEventHandler = (_, data) => {
+    setSelectedValue(data.value as string);
   };
 
   // 找到当前选中的学期数据
