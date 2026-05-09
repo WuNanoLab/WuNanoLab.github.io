@@ -29,6 +29,9 @@ let BeautifulJekyllJS = {
     BeautifulJekyllJS.initImgs();
 
     BeautifulJekyllJS.initSearch();
+
+    // Open external links in a new tab
+    BeautifulJekyllJS.initExternalLinks();
   },
 
   initNavbar : function() {
@@ -132,6 +135,32 @@ let BeautifulJekyllJS = {
       if (e.key == "Escape") {
         $("#beautifuljekyll-search-overlay").hide();
         $("body").removeClass("overflow-hidden");
+      }
+    });
+  },
+
+  initExternalLinks : function() {
+    const currentHost = window.location.hostname;
+
+    $("a[href]").each(function() {
+      const href = $(this).attr("href");
+
+      // Skip empty, fragment, and non-http links
+      if (!href || href.startsWith("#") || href.startsWith("mailto:") || href.startsWith("tel:")) {
+        return;
+      }
+
+      let linkUrl;
+      try {
+        linkUrl = new URL(href, window.location.href);
+      } catch (e) {
+        return;
+      }
+
+      const isExternal = linkUrl.hostname && linkUrl.hostname !== currentHost;
+      if (isExternal) {
+        $(this).attr("target", "_blank");
+        $(this).attr("rel", "noopener noreferrer");
       }
     });
   }
