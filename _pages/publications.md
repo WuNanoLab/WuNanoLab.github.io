@@ -4,7 +4,53 @@ title: Publications
 permalink: publications
 ---
 
+## 2026
+
+*   **[117]** [**Enhanced ResU-Net for Brain Tumor Segmentation using EfficientNetB0, Channel Attention, and ASPP**](https://iopscience.iop.org/article/10.1088/2057-1976/ae6459)
+Behzadpour, M., Azizi, E., Ortiz, B.L., & Wu, K. (2026)
+***Biomedical Physics & Engineering Express***, xx, xxxx.
+
+*   **[116]** [**A Novel Deep Learning Approach for Breast Tumor Applications Using Histopathological Images**](https://ieeexplore.ieee.org/document/11476675)
+Behzadpour, M., Ortiz, B.L., Azizi, E., Wu, K. (2026)
+IEEE. In SoutheastCon 2026 (pp. 1-6).
+
+*   **[115]** [**Compositionally tunable (AlxGa1-x)2O3 ultra-wide-bandgap multilayers**](https://www.sciencedirect.com/science/article/pii/S1369800126003021?dgcid=coauthor)
+Ho, Y.-C., Ormond, C., Mostufa, S., Gaddy, M., Kuryatkov, V., Wu, K., Bayne, S., Nguyen, H. P. T., Bernussi, A. A. (2026)
+***Materials Science in Semiconductor Processing***, 210 (2026): 110706.
+
+*   **[114]** [**Wet Ball Milling Synthesis of Iron Oxide Nanoparticles for High-Efficiency, Controllable Magnetic Hyperthermia in Ovarian Cancer**](https://advanced.onlinelibrary.wiley.com/doi/10.1002/admt.70960)
+Mostufa, S., Rezaei, B., Shahriar, M., Paz González, K. M., Kumar, A., Xu, C., Eo, Y. S., Karampelas, I. H., Gómez-Pastora, J., He, R., Wu, K. (2026)
+***Advanced Materials Technologies***, 2026; 0:e70960.
+
+*   **[113]** [**Noble-metal-free Recyclable Electronic Nanoinks for Wireless Wearable Sensors**](https://pubs.rsc.org/en/content/articlelanding/2026/nr/d5nr04828a)
+Arefin, N., Ofori, K. A. O., Borden, C., Paul, N., Jones, T., Constantinides, N., Wu, K., & Zeng, M. (2026)
+***Nanoscale***, xx, xxxx.
+
+*   **[112]** [**Magnetic Nanoparticle Contrast Agents for MRI: Structure-Property Relationships, In Vivo Applications, and Future Theranostic Directions**](https://iopscience.iop.org/article/10.1088/1361-6528/ae4e33)
+Rezaei, B., Mostufa, S., Paz González, K. M., Azizi, E., Li, C., Gomez-Pastora, J., He, R., & Wu, K. (2026)
+***Nanotechnology***, 37, 112001.
+
+*   **[111]** [**Data-driven and Physics-informed Estimation of Magnetic Nanoparticle Properties via Stochastic Langevin Model**](https://iopscience.iop.org/article/10.1088/1361-6528/ae4e32)
+Azizi, E., Wang, H., Zuo, H., Chugh, V., He, R., Wu, K. (2026)
+***Nanotechnology***, 37, 115701.
+
+*   **[110]** [**Computational Design of A 3D Magnetic Particle Imaging (MPI) Prototype**](https://pubs.aip.org/aip/adv/article/16/3/035003/3382579/Computational-design-of-a-3D-magnetic-particle)
+Mostufa, S., Rezaei, B., & Wu, K. (2026)
+***AIP Advances***, 16, 035003.
+
+*   **[109]** [**Magnetic Nanoparticles for Cancer Theranostics**](https://iopscience.iop.org/article/10.1088/2057-1976/ae44a0)
+Hart, J., Tran, L. N. T., Ena, T. F., Natekar, N. A., Rezaei, B., Jiao, Y., Zuo, H., Wang, H., Chugh, V., Azizi, E., Karampelas, I. H., He, R., Gomez-Pastora, J., & Wu, K. (2026)
+***Biomedical Physics & Engineering Express***, 12, 022001.
+
+*   **[108]** [**Nontraditional Granular Magnetoresistive Devices: A Short Review**](https://pubs.rsc.org/en/content/articlelanding/2026/nr/d5nr04769b/unauth)
+Mostufa, S., Zeng, M., & Wu, K. (2026)
+***Nanoscale***, 2026, 18, 4568 - 4580.
+
 ## 2025
+
+* **[107]** [**Visual Perception and Sensory Engagement in ASMR Videos: An Affective Computing Perspective**](https://ieeexplore.ieee.org/document/11303044)
+Seifzadeh, S., Azizi, E., Behzadpour, M., Wu, K., & Kostek. B. (2025)
+**IEEE Access**, 13, 214108 – 214121.
 
 *   **[106]** [**Dilute Magnetic Impurity-Induced Effective Phonon Magnetic Moment in Fe-doped Monolayer MoS2**](https://iopscience.iop.org/ar
 ticle/10.1088/2053-1583/ae04fc/meta)                                                                                                              Mustafa, H., Ye, G., Nnokwe, C.C., Fang, M., Kandil, M., Al-Mahboob, A., Wu, K., Stollenwerk, A.J., Kidd, T.E., Shand, P., Sadowski, J.T.,
