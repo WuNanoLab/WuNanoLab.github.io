@@ -25,7 +25,6 @@ navbar-links:
   Team: "/team"
   Publications: "/publications"
   Equipment: "/equipment"
-  BioMed: "/biomed"
 
 include:
   - _pages
