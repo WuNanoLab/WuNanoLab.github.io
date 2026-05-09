@@ -42,6 +42,16 @@ const useStyles = makeStyles({
 
 const ASSETS_BASE = __DEV__ ? '/assets/' : '/assets/react/'
 
+type EditorialLink = {
+  label: string
+  href: string
+}
+
+type EditorialPosition = {
+  label: string
+  links: EditorialLink[]
+}
+
 const usePersonaCardStyles = makeStyles({
   secondaryBlock: {
     display: 'grid',
@@ -149,6 +159,20 @@ const PersonaCard = ({
   )
 }
 
+const renderEditorialPosition = (position: EditorialPosition) => (
+  <div>
+    <strong>{position.label}:</strong>{' '}
+    {position.links.map((link, index) => (
+      <span key={link.label}>
+        {index > 0 && ' | '}
+        <Link href={link.href} target="_blank" rel="noreferrer">
+          {link.label}
+        </Link>
+      </span>
+    ))}
+  </div>
+)
+
 const FacultySection = () => {
   const styles = useStyles()
   return (
@@ -168,7 +192,29 @@ const FacultySection = () => {
                 {person.education?.map((edu) => (
                   <li key={edu}>{edu}</li>
                 ))}
-              </ul>
+              </ul>,
+              (person.editorial_positions as EditorialPosition[] | undefined)?.length
+                ? (
+                  <>
+                    <strong>Editorial Positions:</strong>
+                    {(person.editorial_positions as EditorialPosition[]).map((position) => (
+                      renderEditorialPosition(position)
+                    ))}
+                  </>
+                )
+                : undefined,
+              person.awards_and_honors?.length
+                ? (
+                  <>
+                    <strong>Awards &amp; Honors:</strong>
+                    <ul>
+                      {person.awards_and_honors.map((award) => (
+                        <li key={award}>{award}</li>
+                      ))}
+                    </ul>
+                  </>
+                )
+                : undefined,
             ]}
           />
         ))}

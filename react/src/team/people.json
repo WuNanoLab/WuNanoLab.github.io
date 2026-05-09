@@ -14,8 +14,36 @@
         "BS, Northwestern Polytechnical University (2009 - 2013)"
       ],
       "editorial_positions": [
-        "Editor (Associate): IEEE Transactions on Magnetics, IEEE Sensors Journal",
-        "Editorial Board Member: ACS Applied Nano Materials, Sensors, Nanotechnology"
+        {
+          "label": "Editor (Associate)",
+          "links": [
+            {
+              "label": "IEEE Transactions on Magnetics",
+              "href": "https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=20"
+            },
+            {
+              "label": "IEEE Sensors Journal",
+              "href": "https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=7361"
+            }
+          ]
+        },
+        {
+          "label": "Editorial Board Member",
+          "links": [
+            {
+              "label": "ACS Applied Nano Materials",
+              "href": "https://pubs.acs.org/page/aanmf6/editors.html"
+            },
+            {
+              "label": "Sensors",
+              "href": "https://www.mdpi.com/journal/sensors/editors"
+            },
+            {
+              "label": "Nanotechnology",
+              "href": "https://publishingsupport.iopscience.iop.org/journals/nanotechnology/editorial-board/"
+            }
+          ]
+        }
       ],
       "awards_and_honors": [
         "2026 NSF CAREER Award",
