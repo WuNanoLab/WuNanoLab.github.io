@@ -70,6 +70,19 @@
         "avatar_filename": "Shahriar Mostufa.png"
       },
       {
+        "name": "HanLei Wang",
+        "study": "Electrical Engineering (Enrolled 2025 Fall)",
+        "research_topics": "Magnetic Particle Imaging; Magnetic Particle Spectroscopy.",
+        "email": "hanlwang@ttu.edu",
+        "awards": [
+          "TTU Distinguished Graduate Student Assistantship (DGSA, 2025)"
+        ],
+        "linkedin": "https://www.linkedin.com/in/hanlei-wang-71201a2a3/",
+        "avatar_filename": "Hanlei.jpg"
+      }
+    ],
+    "phd_students_remote":[
+      {
         "name": "Ebrahim Azizi",
         "study": "Electrical Engineering (Enrolled 2023 Fall)",
         "research_topics": "AI for Medical Image and Signal Processing; Magnetic Particle Imaging.",
@@ -80,17 +93,6 @@
         "linkedin": "https://www.linkedin.com/in/ebrahim-azizi-67b6a679/",
         "google_scholar": "https://scholar.google.com/citations?hl=en&user=HQn1jbAAAAAJ",
         "avatar_filename": "Ebrahim.jpeg"
-      },
-      {
-        "name": "HanLei Wang",
-        "study": "Electrical Engineering (Enrolled 2025 Fall)",
-        "research_topics": "Magnetic Particle Imaging; Magnetic Particle Spectroscopy.",
-        "email": "hanlwang@ttu.edu",
-        "awards": [
-          "TTU Distinguished Graduate Student Assistantship (DGSA, 2025)"
-        ],
-        "linkedin": "https://www.linkedin.com/in/hanlei-wang-71201a2a3/",
-        "avatar_filename": "Hanlei.jpg"
       },
       {
         "name": "Majid Behzadpour",

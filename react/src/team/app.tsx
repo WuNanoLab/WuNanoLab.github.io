@@ -181,6 +181,7 @@ const StudentsSection = () => {
   const styles = useStyles()
   const subsections: Array<[string, Person[]]> = [
     ['PhD Students', people.current_students.phd_students],
+    ['PhD Students (Remote)', people.current_students.phd_students_remote],
     ['Undergraduate Students', people.current_students.undergraduate_students],
     ['High School Students', people.current_students.high_school_students],
   ]
