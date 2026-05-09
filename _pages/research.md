@@ -44,4 +44,4 @@ Micromagnetic modeling is a powerful tool for designing and optimizing spintroni
 
 This research program develops machine learning tools to address pressing challenges in healthcare. Projects include image-based tumor diagnosis, automated skin burn segmentation for treatment guidance, and computational analysis of behavioral stimuli to infer affective states. These approaches aim to improve diagnostic accuracy, personalize treatment, and expand access to affordable and timely healthcare.
 
-**Related Publications:** [arXiv:2501.11196](https://arxiv.org/abs/2501.11196)[![PDF](/assets/img/download.svg)](/assets/att/arXiv_2501.11196.pdf); [arXiv:2411.17870](https://arxiv.org/abs/2411.17870)[![PDF](/assets/img/download.svg)](/assets/att/arXiv_2411.17870.pdf).
+**Related Publications:** [Biomedical Physics & Engineering Express (2026)](https://iopscience.iop.org/article/10.1088/2057-1976/ae6459)[![PDF](/assets/img/download.svg)](/assets/att/arXiv_2501.11196.pdf); [SoutheastCon 2026 (2026)](https://ieeexplore.ieee.org/document/11476675)[![PDF](/assets/img/download.svg)](/assets/att/arXiv_2411.17870.pdf).
