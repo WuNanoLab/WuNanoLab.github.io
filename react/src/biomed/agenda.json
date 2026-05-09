@@ -25,28 +25,28 @@
           "date": "Feb 18",
           "speaker": "Sela Boswell",
           "advisor": "Dr. Jenifer Gomez",
-          "title": "TBD"
+          "title": "Influence of the Milling Materials on the Mechanochemical Synthesis of Magnetic Iron Oxide Nanoparticles"
         },
         {
           "type": "presentation",
           "date": "Feb 25",
           "speaker": "Marielena Molinares Ponce",
           "advisor": "Dr. Changxue Xu",
-          "title": "TBD"
+          "title": "Acoustic Cell Patterning for Structured Cell-Laden Hydrogel Fiber/Tubules"
         },
         {
           "type": "presentation",
           "date": "Mar 4",
           "speaker": "Santiago Rodriguez Caballero",
           "advisor": "Dr. Jenifer Gomez",
-          "title": "TBD"
+          "title": "Iron Transport in Cancer Cell Culture Suspensions Measured by Cell Magnetophoresis"
         },
         {
           "type": "presentation",
           "date": "Mar 11",
           "speaker": "Minh Duy Phan",
           "advisor": "Dr. Jenifer Gomez",
-          "title": "TBD"
+          "title": "Magnetic Ferrite Nanoparticle Inks For Syringe Printable Inductors"
         },
         {
           "type": "holiday",
@@ -60,45 +60,62 @@
           "date": "Mar 25",
           "speaker": "Pronob Das",
           "advisor": "Dr. Siva Vanapalli",
-          "title": "TBD"
+          "title": "A Spiral Microfluidic Device for Rapid Sorting, Trapping, and Long-Term Live Imaging of C. elegans Embryos"
         },
         {
           "type": "presentation",
           "date": "Apr 1",
           "speaker": "Mahenour Megahed",
           "advisor": "Dr. Indrajit Srivastava",
-          "title": "TBD"
+          "title": "pH‐Responsive β‐Glucans‐Complexed mRNA in LNPs as an Oral Vaccine for Enhancing Cancer Immunotherapy"
         },
         {
           "type": "presentation",
           "date": "Apr 8",
           "speaker": "Tahmed Ahmed",
           "advisor": "Dr. Minxiang Zeng",
-          "title": "TBD"
+          "title": "A Soft Magnetoelastic Sensor to Decode Levels of Fatigue"
         },
         {
           "type": "presentation",
           "date": "Apr 15",
           "speaker": "Shahriar Mostufa",
           "advisor": "Dr. Kai Wu",
-          "title": "TBD"
+          "title": "Magnetic Nanomaterial for Theragnostic, Imaging, and Sensing Applications"
         },
         {
           "type": "presentation",
           "date": "Apr 22",
           "speaker": "Nisha Khatiwada",
           "advisor": "Dr. Zhongkui Hong",
-          "title": "TBD"
+          "title": "Dynamic Insights into Cellular Mechanics and Membrane Undulations in Vascular Smooth Muscle Cells"
         },
         {
           "type": "presentation",
           "date": "Apr 29",
           "speaker": "Hanlei Wang",
           "advisor": "Dr. Kai Wu",
-          "title": "TBD"
+          "title": "Open-Source Device for High Sensitivity Magnetic Particle Spectroscopy, Relaxometry, and Hysteresis Loop Tracing"
         }
       ],
-      "awards": null
+      "awards": [
+        {
+          "place": "First Place",
+          "names": "Marielena Molinares Ponce"
+        },
+        {
+          "place": "Second Place",
+          "names": "Santiago Rodriguez Caballero, Nisha Khatiwada"
+        },
+        {
+          "place": "Third Place",
+          "names": "Mahenour Megahed, Tahmed Ahmed"
+        },
+        {
+          "place": "Rising Star",
+          "names": "Sela Boswell"
+        }
+      ]
     },
     {
       "id": "2025-fall",
