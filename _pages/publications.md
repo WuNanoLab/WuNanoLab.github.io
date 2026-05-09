@@ -55,24 +55,30 @@ Seifzadeh, S., Azizi, E., Behzadpour, M., Wu, K., & Kostek. B. (2025)
 *   **[106]** [**Dilute Magnetic Impurity-Induced Effective Phonon Magnetic Moment in Fe-doped Monolayer MoS2**](https://iopscience.iop.org/ar
 ticle/10.1088/2053-1583/ae04fc/meta)                                                                                                              Mustafa, H., Ye, G., Nnokwe, C.C., Fang, M., Kandil, M., Al-Mahboob, A., Wu, K., Stollenwerk, A.J., Kidd, T.E., Shand, P., Sadowski, J.T.,
  Yang, E.-H., Zhou, Y., He, R., & Jin, W. (2025). ***2D Materials***, 12, 041002.                                                             
+
 *   **[105]** [**Effects of Excitation Field Amplitude on Magnetic Particle Imaging Performance: A Modeling Study**](https://iopscience.iop.or
 g/article/10.1088/1361-6463/adeea2)                                                                                                               Azizi, E., Li, C., Gomez-Pastora, J., He, R., & Wu, K. (2025). ***Journal of Physics D: Applied Physics***, 58, 305002.
 
 *   **[104]** [**Magnetic-assisted Manipulation of Rare Blood Cells for Diagnosis: A Systematic Review**](https://analyticalsciencejournals.on
 linelibrary.wiley.com/doi/10.1002/bit.70010)                                                                                                      Iyer, P., Wu, X., Choe, H., Tran, L.N.T., González, K.M.P., Rezaei, B., Mostufa, S., Azizi, E., Karampelas, I.H., Wu, K., Chalmers, J., & 
 Gomez-Pastora, J. (2025). ***Biotechnology and Bioengineering***, 2025, 1–41.                                                                 
+
 *   **[103]** [**Multiplexed Detection in Magnetic Particle Spectroscopy: A Systematic Parameter Analysis**](https://journals.aps.org/prapplie
 d/abstract/10.1103/22cn-nw8t)                                                                                                                     Chugh, V.K., Liang, S., Hopper, M.S., Dey, A., Krishna, V.D., Cheeran, M.C.-J., Wu, K., & Wang, J.-P. (2025). ***Physical Review Applied**
 *, 23, 064021.                                                                                                                                
+
 *   **[102]** [**Blood Cell Separation with Magnetic Techniques: A Critical Review**](https://doi.org/10.1039/D5LC00180C)
     Paz Gonzalez, K. M., Tran, L. N. T., Iyer, P. R., Wu, X., Choe, H., Rezaei, B., Mostufa, S., Azizi, E., Karampelas, I., Zeng, M., Wu, K., 
 Chalmers, J., Gomez-Pastora, J. (2025). ***Lab on a Chip***, 2025, 25, 2521-2565.                                                             
+
 *   **[101]** [**Investigation of Magnetic Nanoparticle Recovery Using A Quadrupole Magnetic Field Via Numerical Simulation and SAXS**](https:
 //www.sciencedirect.com/science/article/abs/pii/S138358662502101X?via%3Dihub)                                                                     Wu, X., Choe, H., Ciannella, S., Paz Gonzalez, K. M., Tran, L. N. T., Iyer, P. R., Yunker, B. A., Karampelas, I. H., Wu, K., Zborowski, M.
 , Wyslouzil, B., Chalmers, J., & Gomez-Pastora, J. (2025). ***Separation and Purification Technology***, 372, 133504.                         
+
 *   **[100]** [**Origin of Large Effective Phonon Magnetic Moments in Monolayer MoS2**](https://pubs.acs.org/doi/full/10.1021/acsnano.4c18906)
     Mustafa, H., Nnokwe, C., Ye, G., Fang, M., Chaudhary, S., Yan, J.-A., Wu, K., Cunningham, C. J., Hemesath, C. M., Stollenwerk, A. J., Shan
 d, P. M., Yang, E.-H., Fiete, G. A., He, R., & Jin, W. (2025). ***ACS Nano***, 2025, 19, 11, 11241–11248.                                     
+
 *   **[99]** [**Characterizing the Physicochemical Properties of Magnetic Nanoparticles by A Surface Plasmon Resonance Approach**](https://pub
 s.aip.org/aip/adv/article/15/3/035022/3339540/Characterizing-the-physicochemical-properties-of)                                                   Mostufa, S., Rezaei, B., Azizi, E., Wang, Y. A., Li, C., Gomez-Pastora, J., He, R., & Wu, K. (2025). ***AIP Advances***, 15, 035022.
 
@@ -81,9 +87,11 @@ s.aip.org/aip/adv/article/15/3/035022/3339540/Characterizing-the-physicochemical
 *   **[97]** [**Trajectory Analysis of Single Magnetic Bead Under Elliptical Cylindrical Magnet and Rotating Field**](https://www.sciencedirec
 t.com/science/article/pii/S0304885325001659)                                                                                                      Li, R., Sun, J., Shi, Z., Zhao, R., Liu, X., Xin, S., Wang, N., Shui, X., Du, W., & Wu, K. (2025). ***Journal of Magnetism and Magnetic Ma
 terials***, 620, 172934.                                                                                                                      
+
 *   **[96]** [**Micromagnetic Stimulation (μMS) Controls Dopamine Release: An in vivo Study Using WINCS Harmoni**](https://iopscience.iop.org/
 article/10.1088/2057-1976/adbaf9)                                                                                                                 Saha, R., Goyal, A., Yuen, J., Oh, Y., Bloom, R., Benally, O. J., Wu, K., Netoff, T. I., Low, W. C., Bennet, K., Lee, K. H., Shin, H., & W
 ang, J.-P. (2025). ***Biomedical Physics & Engineering Express***, 11, 025058.                                                                
+
 *   **[95]** [**Perspective: Magnetic Quantum Sensors for Biomedical Applications**](https://iopscience.iop.org/article/10.1088/1361-6528/adb6
 35) (HOT)                                                                                                                                         Wu, K., He, R. (2025). ***Nanotechnology***, 36, 152501.
 
@@ -93,50 +101,65 @@ bs.aip.org/aip/jap/article/137/5/054702/3334091/Study-and-optimization-on-hypert
 *   **[93]** [**Computational Predictions on the Magnetic Particle Imaging Performance of Tracers Subjected to Magnetic Dipole-Dipole Interact
 ions**](https://ieeexplore.ieee.org/document/10870345)                                                                                            Azizi, E., Mostufa, S., Rezaei, B., Xin, S., Sun, J., Shi, Z., Gomez-Pastora, J., & Wu, K. (2025). ***IEEE Transactions on Magnetics***, 2
 025, 61, 9, 6500405.                                                                                                                          
+
 *   **[92]** [**Tuning the Magnetic Properties of CrI3 Using Ni Thin Film Deposition for Applications in Spintronic Devices**](https://pubs.ac
 s.org/doi/full/10.1021/acsanm.4c06641)                                                                                                            Nnokwe, C., Cunningham, C. J., Liu, W., Ye, G., Nguyen, T., Wu, K., Hemesath, C., Sadler, C., Lukashev, P., Zhai, Z., Lv, B., Yan, J.-A., 
 Shand, P. M., Stollenwerk, A. J., & He, R. (2025). ***ACS Applied Nano Materials***, 2025, 8, 5, 2412–2420.                                   
+
 *   **[91]** [**Applying Stochastic Langevin Function with Coupled Brownian-Néel Relaxations to Study the Dynamic Magnetizations of Nanopartic
 le Tracers in Magnetic Particle Imaging**](https://iopscience.iop.org/article/10.1088/1361-6463/adafbd)                                           Azizi, E., Mostufa, S., Rezaei, B., Xin, S., Sun, J., Shi, Z., Gomez-Pastora, J., & Wu, K. (2025). ***Journal of Physics D: Applied Physic
 s***, 58, 135002.                                                                                                                             
+
 *   **[90]** [**Investigation on the Magnetic Hyperthermia Performance of Commercial Iron Oxide Magnetic Nanoparticles**](https://ieeexplore.i
 eee.org/document/10855549)                                                                                                                        Rezaei, B., Mostufa, S., Azizi, E., Wang, Y. A., Li, C., Gomez-Pastora, J., He, R., & Wu, K. (2025). ***IEEE Transactions on Magnetics***,
  2025, 61, 9, 5400305.                                                                                                                        
+
 *   **[89]** [**Effect of Tracer Size Distribution on Magnetic Particle Imaging Performance**](https://iopscience.iop.org/article/10.1088/1402
 -4896/adab46)                                                                                                                                     Azizi, E., Rezaei, B., Mostufa, S., Liang, S., Wang, Y. A., Chugh, V., Wang, J.-P., Li, C., Gomez-Pastora, J., He, R., & Wu, K. (2025). **
 *Physica Scripta***, 100, 025529.                                                                                                             
+
 *   **[88]** [**Printing Rare-Earth-Free (REF) Magnetic Inks: Synthesis, Formulation, and Device Applications**](https://pubs.rsc.org/en/conte
 nt/articlelanding/2025/nr/d4nr04035j)                                                                                                             Moni, H.-E., Rezaei, B., Karampelas, I. H., Saeidi-Javash, M., Gómez-Pastora, J., Wu, K. & Zeng, M. (2025). ***Nanoscale***, 2025,17, 4830
 -4853.                                                                                                                                        
+
 *   **[87]** [**Ultrasensitive Terahertz Metamaterial Sensor Based on Planar Metal-Insulator-Metal Structure**](https://ieeexplore.ieee.org/do
 cument/10804054)                                                                                                                                  Liu, X., Sun, J., Shi, Z., Xiu, S., Yang, C., Hou, Y., Xin, S., Li, R., Zhang, L., & Wu, K. (2025). ***IEEE Sensors Journal***, 25, 3, 451
 1 - 4519.                                                                                                                                     
+
 ## 2024
 
 *   **[86]** [**Additive Manufacturing of Magnetic Materials for Energy, Environment, Healthcare, and Industry Applications**](https://onlinel
 ibrary.wiley.com/doi/10.1002/adfm.202416823)                                                                                                      Rezaei, B., Moni, H.-E., Karampelas, I. H., Sharma, A., Mostufa, S., Azizi, E., Liu, X., Zeng, M., Gómez-Pastora, J., He, R., Wu, K. (2024
 ). ***Advanced Functional Materials***. 2024, 2416823.                                                                                        
+
 *   **[85]** [**Magnetic Particle-Assisted Sensing and Magnetic Biosensors**](https://www.frontiersin.org/journals/bioengineering-and-biotechn
 ology/articles/10.3389/fbioe.2024.1518156/abstract)                                                                                               Chen, D., Zardan Gomez De La Torre, T., Wei, F., Tian, B., Wu, K. (2024). ***Frontiers in Bioengineering and Biotechnology***. 2024, 12, 1
 518156.                                                                                                                                       
+
 *   **[84]** [**Roadmap on Magnetic Nanoparticles in Nanomedicine**](https://iopscience.iop.org/article/10.1088/1361-6528/ad8626) (HOT)
     Wu, K., Wang, J.P., Natekar, N., Ciannella, S., González-Fernández, C., Gomez-Pastora, J., Bao, Y., Liu, J., Liang, S., Wu, X., Tran, L.N.
 T., Paz González, K.M., Choe, H., Strayer, J., Iyer, P.R., Chalmers, J., Chugh, V.K., Rezaei, B., Mostufa, S., Tay, Z.W., Saayujya, C., Huynh, Q., Bryan, J., Kuo, R., Yu, E., Chandrasekharan, P., Fellows, B., Conolly, S., Hadimani, R.L., El-Gendy, A.A., Saha, R., Broomhall, T.J., Wright, A.L., Rotherham, M., El Haj, A.J., Wang, Z., Liang, J., Abad-Díaz-de-Cerio, A., Gandarias, L., Gubieda, A.G., García-Prieto, A., Fdez-Gubieda, M.L. (2024). ***Nanotechnology***. 2025, 36, 042003.                                                                                    
+
 *   **[83]** [**An Integrated Micro-Heating System for On-Chip Isothermal Amplification of African Swine Fever Virus Genes**](https://onlineli
 brary.wiley.com/doi/full/10.1002/smll.202402446)                                                                                                  Sun, J., Shi, Z., Tan, Q., Zhong, M., Wang, N., Xin, S., Liu, X., Li, R., Ma, Y., Wu, K., Cui, Y., & Hui, W. (2024). ***Small***. 2024, 24
 02446.                                                                                                                                        
+
 *   **[82]** [**Investigation on the Focusing and Separation of Polystyrene Microbeads in An Integrated Microfluidic System Using Magnetized F
 unctionalized Flexible Micro-magnet Arrays**](https://link.springer.com/article/10.1007/s10404-024-02749-5)                                       Chen, S., Sun, J., Shi, Z., Liu, X., Ma, Y., Li, Ru., Xin, S., Wang, N., Li, X., & Wu, K. (2024). ***Microfluidics and Nanofluidics.*** 28
 , 8, 1-15.                                                                                                                                    
+
 *   **[81]** [**Micromagnetic Neural Stimulation and Spintronic Neural Sensing**](https://ieeexplore.ieee.org/document/10576875)
     Saha, R., Tonini, D., Hopper, M. S., Goyal, A., Yuen, J., Oh, Y., Sanger, Z., Faramarzi, S., Shiao, M., Van Helden, D., Bloom, R. P., Bena
 lly, O. J., Wu, K., Keirstead, S. A., Netoff, T. I., Low, W. C., Osborn, J., Bennet, K. E., Lee, K. H., Shin, H., & Wang, J.P. (2024). ***IEEE***. 2024 IEEE International Magnetic Conference (INTERMAG).                                                                                  
+
 *   **[80]** [**Magnetic Particle Spectroscopy (MPS)-Based Bioassays**](https://ieeexplore.ieee.org/document/10577056)
     Wu, K., Chugh, V.K., Krishna, V.D., di Girolamo, A., Wang, Y.A., Cheeran, M.C., & Wang, J.P. (2024). ***IEEE***. 2024 IEEE International M
 agnetic Conference (INTERMAG).                                                                                                                
+
 *   **[79]** [**Effect of Polymer and Cell Membrane Coatings on Theranostic Applications of Nanoparticles: A Review**](https://onlinelibrary.w
 iley.com/doi/10.1002/adhm.202401213)                                                                                                              Rezaei, B., Harun, A., Wu, X., Iyer, P. R., Mostufa, S., Ciannella, S., Karampelas, I. H., Chalmers, J., Srivastava, I., Gómez-Pastora, J.
 , & Wu, K. (2024). ***Advanced Healthcare Materials***. 2024, 2401213.                                                                        
+
 *   **[78]** [**Spintronic Devices for Biomedical Applications**](https://www.nature.com/articles/s44306-024-00031-6)
     Mostufa, S., Liang, S., Chugh, V.K., Wang, J.P., & Wu, K. (2024). ***npj Spintronics***. 2024, 2, 1, 26.
 
@@ -146,11 +169,14 @@ iley.com/doi/10.1002/adhm.202401213)                                            
 *   **[76]** [**Magnetic Nanoparticles for Magnetic Particle Imaging (MPI): Design and Applications**](https://pubs.rsc.org/en/Content/Article
 Landing/2024/NR/D4NR01195C)                                                                                                                       Rezaei, B., Tay, Z., Mostufa, S., Manzari, O.N., Azizi, E., Ciannella, S., Moni, H.E.J., Li, C., Zeng, M., Gómez-Pastora, J., & Wu, K. (20
 24). ***Nanoscale***, 2024, 16, 11802 – 11824.                                                                                                
+
 *   **[75]** [**Planar Microcoil Arrays for *in vitro* Cellular-Level Micromagnetic Activation of Neurons**](https://pubs.aip.org/avs/jvb/arti
 cle/42/3/033001/3284521/Planar-microcoil-arrays-for-in-vitro-cellular)                                                                            Saha, R., Benally, O.J., Faramarzi, S., Bloom, R., Wu, K., Tonini, D., Shiao, M., Keirstead, S.A., Low, W.C., Netoff, T.I., & Wang, J.P. (
 2024). ***Journal of Vacuum Science & Technology B***. 42, 3, 033001.                                                                         
+
 *   **[74]** [**Electric Field Dropping Effect Enhanced Extraordinary Sensitivity of THz Electromagnetically Induced Transparency Metamaterial**](https://ieeexplore.ieee.org/document/10418858)                                                                                                Liu, X., Sun, J., Shi, Z., Xiu, S., Cui, Y., Hou, Y., Li, R., Wang, N., Zhang, L., Li, X., & Wu, K. (2024). ***IEEE Sensors Journal***, 20
 24, 24, 6, 7807 - 7815.                                                                                                                       
+
 *   **[73]** [**Magnetic Nanoparticles: A Review on Synthesis, Characterization, Functionalization, and Biomedical Applications**](https://onl
 inelibrary.wiley.com/doi/10.1002/smll.202304848)                                                                                                  Rezaei, B., Yari, P., Sanders, S.M., Wang, H., Chugh, V.K., Liang, S., Mostufa, S., Xu, K., Wang, J.P., Gómez-Pastora, J., & Wu, K. (2024)
 . ***Small***, 20, 5, 2304848. (TOP Cited | TOP Viewed)                                                                                       
@@ -162,18 +188,23 @@ inelibrary.wiley.com/doi/10.1002/smll.202304848)                                
 *   **[71]** [**Kinetic and Parametric Analysis of the Separation of Ultra-Small, Aqueous Superparamagnetic Iron Oxide Nanoparticle Suspension
 s under Quadrupole Magnetic Fields**](https://www.mdpi.com/2072-666X/14/11/2107)                                                                  Ciannella, S., Wu, X., Gonzalez-Fernandez, C., Rezaei, B., Strayer, J., Choe, H., Wu, K., Chalmers, J., & Gómez-Pastora, J. (2023). ***Mic
 romachines***, 2023, 14, 11, 2107.                                                                                                            
+
 *   **[70]** [**Nanomaterial-Based Biosensors for SARS-CoV-2 and Future Epidemics**](https://pubs.acs.org/doi/10.1021/acs.analchem.3c01522)
     Yari, P., Liang, S., Chugh, V.K., Rezaei, B., Mostufa, S., Krishna, V.D., Saha, R., Cheeran, M.C., Wang, J.P., Gómez-Pastora, J., & Wu, K.
  (2023). ***Analytical Chemistry***, 2023, 95, 42, 15419–15449.                                                                               
+
 *   **[69]** [**Theoretical Investigation on the Metamaterials Based on the Magnetic Template-Assisted Self-Assembly of Magnetic–Plasmonic Nan
 oparticles for Adjustable Photonic Responses**](https://pubs.acs.org/doi/abs/10.1021/acs.jpcb.3c04917)                                            Sun, J., Shi, Z., Liu, X., Ma, Y., Li, R., Chen, S., Xin, S., Wang, N., Jia, S., & Wu, K. (2023). ***Journal of Physical Chemistry B***, 2
 023, 127, 40, 8681–8689.                                                                                                                      
+
 *   **[68]** [**Giant Magnetoresistance Based Biosensors for Cancer Screening and Detection**](https://pubs.acs.org/doi/full/10.1021/acsabm.3c
 00592)                                                                                                                                            Mostufa, S., Rezaei, B., Yari, P., Xu, K., Gómez-Pastora, J., Sun, J., Shi, Z., & Wu, K. (2023). ***ACS Applied Bio Materials***, 2023, 6,
  10, 4042–4059.                                                                                                                               
+
 *   **[67]** [**Static and Dynamic Magnetization Responses of Self-Assembled Magnetic Nanoparticle Chains**](https://pubs.acs.org/doi/10.1021/
 acs.jpcc.3c03755)                                                                                                                                 Chugh, V., Liang, S., Tonini, D., Saha, R., Liu, J., Yari, P., Krishna, V.D., Cheeran, M.C., Wu, K., & Wang, J.P. (2023). ***Journal of Ph
 ysical Chemistry C***, 2023, 127, 37, 18494–18505.                                                                                            
+
 *   **[66]** [**Metamaterial As Perfect Absorber for High Sensitivity Refractive Index Based Biosensing Applications at Infrared Frequencies**
 ](https://iopscience.iop.org/article/10.1088/1361-6463/aceb6f)                                                                                    Mostufa, S., Yari, P., Rezaei. B., Xu, K., Sun, J., Shi, Z., & Wu, K. (2023). ***Journal of Physics D: Applied Physics***, 56, 445104.
 
@@ -189,6 +220,7 @@ ieeexplore.ieee.org/document/10123859)                                          
 *   **[62]** [**Micromagnetic Stimulation (μMS) Dose-Response of the Rat Sciatic Nerve**](https://iopscience.iop.org/article/10.1088/1741-2552
 /acd582)                                                                                                                                          Saha, R., Sanger, Z., Bloom, R., Benally, O., Wu, K., Tonini, D., Low, W.C., Keirstead, S., Netoff, T.I., & Wang, J.P. (2023). ***Journal 
 of Neural Engineering***, 20, 036022.                                                                                                         
+
 *   **[61]** [**Magnetic Particle Spectroscopy for Point-of-Care: A Review on Recent Advances**](https://www.mdpi.com/1424-8220/23/9/4411)
     Yari, P., Rezaei, B., Dey, C., Chugh, V.K., Veerla, N.V.R.K., Wang, J.-P., & Wu, K. (2023). ***Sensors***, 2023, 23, 4411.
 
@@ -204,12 +236,15 @@ rg/doi/full/10.1063/9.0000597)                                                  
 *   **[57]** [**Ultra-Flexible Giant Magnetoresistance Biosensors for Lab-on-A-Needle Biosensing**](https://onlinelibrary.wiley.com/doi/10.100
 2/admi.202201417)                                                                                                                                 Su, D., Wu, K., Srinivasan, K., Nemati, Z., Zamani, R., Chugh, V.K., Saha, R., Franklin, R., Modiano, J., Stadler, B. and Wang, J.P. (2023
 ). ***Advanced Materials Interfaces***, 2201417.                                                                                              
+
 *   **[56]** [**GMR Biosensing with Magnetic Nanowires as Labels for the Detection of Osteosarcoma Cells**](https://www.sciencedirect.com/scie
 nce/article/abs/pii/S0924424722007506?via%3Dihub)                                                                                                 Su, D., Um, J., Moreno, J., Nemati, Z., Srinivasan, K., Chen, J., Zamani, R., Shore, D., Wu, K., Kosel, J., Modiano, J., Franklin, R., Wan
 g, J.-P., & Stadler, B. (2023). ***Sensors and Actuators A: Physical***, 350, 114115.                                                         
+
 *   **[55]** [**Frequency and Amplitude Optimizations for Magnetic Particle Spectroscopy Applications**](https://pubs.acs.org/doi/full/10.1021
 /acs.jpcc.2c07534)                                                                                                                                Chugh, V.K., di Girolamo, A., V.K., Krishna, V.D., Wu, K., Cheeran, M.C., & Wang, J.P. (2023). ***Journal of Physical Chemistry C***, 2023
 , 127, 1, 450–460.                                                                                                                            
+
 ## 2022
 
 *   **[54]** [**Feasibility study of magnetic sensing for detecting single-neuron action potentials**](https://www.biomedscijournal.com/abstra
@@ -218,6 +253,7 @@ ct/abse-aid1018)                                                                
 *   **[53]** [**Five-Minute Magnetic Nanoparticle Spectroscopy-Based Bioassay for Ultrafast Detection of SARS-CoV-2 Spike Protein**](https://d
 oi.org/10.1021/acsanm.2c05237)                                                                                                                    Wu, K., Chugh, V.K., Krishna, V.D., Wang, A. (Y.Q.), Gordon, T.D., Cheeran, M.C., & Wang, J.P. (2022). ***ACS Applied Nano Materials***, 2
 022, 5, 12, 17503–17507.                                                                                                                      
+
 *   **[52]** [**Giant Magnetoresistance Biosensors for Food Safety Applications**](https://www.mdpi.com/article/10.3390/s22155663)
     Liang, S., Sutham, P., Wu, K., Mallikarjunan, K., & Wang, J.P. (2022). ***Sensors***, 22, 15, 5663.
 
@@ -228,11 +264,12 @@ s**](https://21stcenturypathology.com/#/abstract;id=118)                        
 le/10.1088/2399-1984/ac5cd1)                                                                                                                      Wu, K., Liu, J., Chugh, V.K., Liang, S., Saha, R., Krishna, V.D., Cheeran, M.C., & Wang, J.P. (2022). ***Nano Futures***, 6, 022001.
 
 *   **[49]** [**Giant Magnetoresistance Biosensors in Biomedical Applications**](https://pubs.acs.org/doi/10.1021/acsami.1c20141)
-    Wu, K., Tonini, D., Liang, S., Saha, R., Chugh, V.K., & Wang, J.P. (2022). ***ACS Applied Materials & Interfaces***, 2022, 14, 8, 9945–996
-9.                                                                                                                                            
+    Wu, K., Tonini, D., Liang, S., Saha, R., Chugh, V.K., & Wang, J.P. (2022). ***ACS Applied Materials & Interfaces***, 2022, 14, 8, 9945–9969.                                                                                                                                            
+
 *   **[48]** [**Strength-frequency curve for micromagnetic neurostimulation through excitatory postsynaptic potentials (EPSPs) on rat hippocam
 pal neurons and numerical modeling of magnetic microcoil (μcoil)**](https://iopscience.iop.org/article/10.1088/1741-2552/ac4baf)                  Saha, R., Faramarzi, S., Bloom, R., Benally, O.J., Wu, K., di Girolamo, A., Tonini, D., Keirstead, S.A., Low, W.C., Netoff, T.I., & Wang, 
 J.P. (2022). ***Journal of Neural Engineering***, 19, 016018.                                                                                 
+
 *   **[47]** [**A review on magnetic and spintronic neurostimulation: challenges and prospects**](https://iopscience.iop.org/article/10.1088/1
 361-6528/ac49be)                                                                                                                                  Saha, R., Wu, K., Bloom, R., Liang, S., Tonini, D., & Wang, J.P. (2022). ***Nanotechnology***, 33, 182004.
 
@@ -241,16 +278,19 @@ J.P. (2022). ***Journal of Neural Engineering***, 19, 016018.
 *   **[46]** [**One-step, Wash-free, Nanoparticle Clustering-based Magnetic Particle Spectroscopy Bioassay Method for Detection of SARS-CoV-2 
 Spike and Nucleocapsid Proteins in Liquid Phase**](https://pubs.acs.org/doi/10.1021/acsami.1c14657)                                               Wu, K., Chugh, V.K., Krishna, V.D., di Girolamo, A., Wang, A. (Y.Q.), Saha, R., Liang, S., Cheeran, M.C., & Wang, J.P. (2021). ***ACS Appl
 ied Materials & Interfaces***, 2021, 13, 37, 44136–44146.                                                                                     
+
 *   **[45]** [**Large Superparamagnetic FeCo Nanocubes for Magnetic Theranostics**](https://pubs.acs.org/doi/10.1021/acsanm.1c01870)
     Liu, J., Wu, K., He, S., Bai, J., Xu, Y, & Wang, J.P. (2021). ***ACS Applied Nano Materials***, 2021, 4, 9, 9382–9390.
 
 *   **[44]** [**Magnetic Particle Spectroscopy with One-stage Lock-in Implementation for Magnetic Bioassays with Improved Sensitivities**](htt
 ps://pubs.acs.org/doi/10.1021/acs.jpcc.1c05126)                                                                                                   Chugh, V.K., Wu, K., Krishna, V.D., di Girolamo, A., Bloom, R.P., Wang, A. (Y.Q.), Saha, R., Liang, S., Cheeran, M.C., & Wang, J.P. (2021)
 . ***Journal of Physical Chemistry C***, 2021, 125, 31, 17221–17231.                                                                          
+
 *   **[43]** [**Stable and Monodisperse Iron Nitride Nanoparticle Suspension for Magnetic Diagnosis and Treatment: Development of Synthesis an
 d Surface Functionalization Strategies**](https://pubs.acs.org/doi/10.1021/acsanm.0c03421)                                                        Wu, K., Liu, J., Saha, R., Ma, B., Su, D., Chugh, V.K., & Wang, J.P. (2021). ***ACS Applied Nano Materials***, 2021, 4, 5, 4409–4418.
     *   [Technology Commercialization](https://license.umn.edu/product/method-for-mass-production-of-high-performance-magnetic-nanoparticles-f
 or-biomedical-applications)                                                                                                                   
+
 *   **[42]** [**Investigation of Commercial Iron Oxide Nanoparticles: Structural and Magnetic Property Characterization**](https://pubs.acs.or
 g/doi/10.1021/acsomega.0c05845)                                                                                                                   Wu, K., Liu, J., Saha, R., Peng, C., Su, D., Wang, A. (Y.Q.), & Wang, J.P. (2021). ***ACS Omega***, 2021, 6, 9, 6274–6283.
 
@@ -260,11 +300,12 @@ ng, J.P. (2021). ***ACS Applied Materials & Interfaces***, 2021, 13, 7, 7966–7
 ## 2020
 
 *   **[40]** [**Magnetic Nanosensor-Based Virus and Pathogen Detection Strategies Before and During COVID-19**](https://pubs.acs.org/doi/full/
-10.1021/acsanm.0c02048)                                                                                                                           Wu, K., Saha, R., Su, D., Krishna, V.D., Liu, J., Cheeran, M.C., & Wang, J.P. (2020). ***ACS Applied Nano Materials***, 2020, 3, 10, 9560-
-9580.                                                                                                                                         
+10.1021/acsanm.0c02048)                                                                                                                           Wu, K., Saha, R., Su, D., Krishna, V.D., Liu, J., Cheeran, M.C., & Wang, J.P. (2020). ***ACS Applied Nano Materials***, 2020, 3, 10, 9560-9580.                                                                                                                                         
+
 *   **[39]** [**Magnetic Particle Spectroscopy-Based Handheld Device for Wash-Free, Easy-to-Use, and Solution-Phase Immunoassay Applications**
 ](https://asmedigitalcollection.asme.org/BIOMED/proceedings/DMD2020/83549/V001T10A011/1085710)                                                    Chugh, V.K., Wu, K., Nair, A., di Girolamo, A., Schealler, J., Vuong, H., Davies, W., Wall, A., Whitely, E., Saha, R., Su, D., & Wang, J.P
 . (2020). ***Frontiers in Biomedical Devices***, vol. 83549, p. V001T10A011. American Society of Mechanical Engineers, 2020.                  
+
 *   **[38]** [**Magnetic Nanotechnologies for Early Cancer Diagnostics with Liquid Biopsies: A Review**](https://jcmtjournal.com/article/view/
 3543)                                                                                                                                             Su, D., Wu, K., Saha, R., Liu, J., & Wang, J.P. (2020). ***Journal of Cancer Metastasis and Treatment***, 2020; 6:19.
 
@@ -322,6 +363,7 @@ ce/article/pii/S0304885318319553)                                               
 *   **[21]** [**Detection of Influenza A Virus in Swine Nasal Swab Samples With A Wash-Free Magnetic Bioassay and A Handheld Giant Magnetoresi
 stance Sensing System**](https://www.frontiersin.org/articles/10.3389/fmicb.2019.01077/full)                                                      Su, D., Wu, K., Krishna, V., Klein, T., Liu, J., Feng, Y., Perez A. M., Cheeran, M. C. -J., & Wang, J. P. (2019). ***Frontiers in Microbio
 logy***, 10, 1077.                                                                                                                            
+
 *   **[20]** [**Tunable magnetic domain walls for therapeutic neuromodulation at cellular level: Stimulating neurons through magnetic domain w
 alls**](https://aip.scitation.org/doi/10.1063/1.5122753)                                                                                          Su, D., Wu, K., Saha, R., & Wang, J. P. (2019). ***Journal of Applied Physics***, 126, 183902.
     *   [AIP Scilight](https://aip.scitation.org/doi/10.1063/10.0000262)
@@ -388,6 +430,7 @@ b.2016.00400/full)                                                              
 *   **[1]** [**Viscosity effect on the brownian relaxation based detection for immunoassay applications**](https://ieeexplore.ieee.org/abstrac
 t/document/6944197)                                                                                                                               Wu, K., Yu, L., Zheng, X., Wang, Y., Feng, Y., Tu, L. & Wang, J.P. (2014). ***IEEE***. In Engineering in Medicine and Biology Society (EMB
 C), 2014 36th Annual International Conference of the IEEE (pp. 2769-2772).                                                                    
+
 ## Patents
 
 *   **[7]** Wu, K., Chugh, V.K., Wang, J.P. Method and Apparatus for Magnetic Flow Cytometry with Enhanced Multiplicity.
