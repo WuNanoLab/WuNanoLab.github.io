@@ -3,6 +3,7 @@ import {
   FluentProvider,
   webLightTheme,
   Persona,
+  Badge,
   Divider,
   Image,
   Link,
@@ -78,10 +79,12 @@ const usePersonaCardStyles = makeStyles({
 
 const PersonaCard = ({
   person,
+  faculty = false,
   size = 96,
   lines = [],
 }: {
-  person: Person
+  person: Person,
+  faculty?: boolean,
   size?: AvatarSize,
   lines?: Array<ReactNode | undefined>
 }) => {
@@ -138,6 +141,8 @@ const PersonaCard = ({
     <Persona
       name={person.name}
       size="huge"
+      textPosition={faculty ? "below" : undefined}
+      textAlignment={faculty ? "center" : undefined}
       avatar={person.avatar_filename ? {
         size,
         image: { src: `${ASSETS_BASE}people/${person.avatar_filename}` },
@@ -160,7 +165,7 @@ const PersonaCard = ({
 }
 
 const renderEditorialPosition = (position: EditorialPosition) => (
-  <div>
+  <div style={{ paddingLeft: '1.5rem' }}>
     <strong>{position.label}:</strong>{' '}
     {position.links.map((link, index) => (
       <span key={link.label}>
@@ -183,6 +188,7 @@ const FacultySection = () => {
           <PersonaCard
             key={person.name}
             person={person}
+            faculty
             size={128}
             lines={[
               <b>{person.title}</b>,
@@ -208,8 +214,11 @@ const FacultySection = () => {
                   <>
                     <strong>Awards &amp; Honors:</strong>
                     <ul>
-                      {person.awards_and_honors.map((award) => (
-                        <li key={award}>{award}</li>
+                      {person.awards_and_honors.map((award: { year: string; text: string }) => (
+                        <li key={`${award.year}-${award.text}`}>
+                          <Badge appearance="tint" style={{ marginRight: '0.5rem' }}>{award.year}</Badge>
+                          <span>{award.text}</span>
+                        </li>
                       ))}
                     </ul>
                   </>
@@ -264,6 +273,26 @@ const StudentsSection = () => {
           </div>
         </div>
       ))}
+    </section>
+  )
+}
+
+const IndustrySection = () => {
+  const styles = useStyles()
+  const entries: Person[] = people.industry_collaborators || []
+
+  return (
+    <section className={styles.section}>
+      <h1>Industry Collaborators</h1>
+      <div className={styles.list}>
+        {entries.map((person) => (
+          <PersonaCard
+            key={person.name}
+            person={person}
+            lines={[person.company, person.location]}
+          />
+        ))}
+      </div>
     </section>
   )
 }
@@ -342,6 +371,8 @@ export const App = () => {
         <FacultySection />
         <Divider />
         <StudentsSection />
+        <Divider />
+        <IndustrySection />
         <Divider />
         <AlumniSection />
         <Divider />

@@ -23,6 +23,8 @@ interface Person extends Record<string, unknown> {
     google_scholar?: string
     school?: string
     duration?: string
+    company?: string
+    location?: string
     avatar_filename?: string
 }
 

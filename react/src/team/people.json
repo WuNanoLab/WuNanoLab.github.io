@@ -46,11 +46,16 @@
         }
       ],
       "awards_and_honors": [
-        "2026 NSF CAREER Award",
-        "2026 Nanoscale Emerging Investigator",
-        "Stanford/Elsevier World's Top 2% Scientists (Applied Physics)",
-        "IEEE Senior Member",
-        "TechConnect Critical Technology Challenge Finalist"
+        { "year": "2026", "text": "NSF CAREER Award" },
+        { "year": "2026", "text": "Rising Stars, Nanotechnology, IOP Publishing" },
+        { "year": "2026", "text": "Emerging Investigators, Nanoscale, RSC Publishing" },
+        { "year": "2026", "text": "Rising Stars in Materials Science, ACS Materials Au, ACS Publications" },
+        { "year": "2025", "text": "TechConnect Critical Technology Challenge Finalist, TechConnect World" },
+        { "year": "2025", "text": "Most Influential Faculty Member, Whitacre College of Engineering, TTU" },
+        { "year": "2025", "text": "Outstanding Faculty Mentor, TTU Center for Transformative Undergraduate Experiences" },
+        { "year": "2023", "text": "Top 2% Scientists Worldwide, Stanford University/Elsevier (subfield: Applied Physics)" },
+        { "year": "2023", "text": "Senior Member, IEEE" },
+        { "year": "2023", "text": "Outstanding Faculty Mentor, TTU Center for Transformative Undergraduate Experiences" }
       ],
       "corporate_advisor": {
         "text": "MagTection, LLC.",
@@ -199,7 +204,22 @@
         "avatar_filename": "Metallic user icon.png"
       }
     ]
+    
   },
+  "industry_collaborators": [
+    {
+      "name": "Niranjan A. Natekar",
+      "company": "Western Digital Corporation",
+      "location": "San Jose, CA, United States of America",
+      "email": "Niranjan.Natekar@wdc.com"
+    },
+    {
+      "name": "Vinit Kumar Chugh",
+      "company": "Seagate Technology LLC",
+      "location": "Shakopee, MN, United States of America",
+      "email": "chugh.vinit@gmail.com"
+    }
+  ],
   "alumni": {
     "ms_students": [
       {
