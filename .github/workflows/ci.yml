@@ -3,12 +3,6 @@ on:
   push:
   pull_request:
   workflow_dispatch:
-    inputs:
-      deploy_preview:
-        description: Deploy GitHub Pages preview and output URL
-        required: true
-        type: boolean
-        default: true
 jobs:
   build:
     name: Build Jekyll
@@ -42,7 +36,6 @@ jobs:
 
   deploy:
     name: Deploy Preview
-    if: inputs.deploy_preview
     needs: build
     runs-on: ubuntu-latest
     permissions:
