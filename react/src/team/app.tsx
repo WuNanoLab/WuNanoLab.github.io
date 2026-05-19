@@ -39,6 +39,10 @@ const useStyles = makeStyles({
     display: 'grid',
     rowGap: '1rem',
   },
+  photoCaption: {
+    display: 'flex',
+    columnGap: '0.5rem',
+  },
 })
 
 const ASSETS_BASE = __DEV__ ? '/assets/' : '/assets/react/'
@@ -336,6 +340,13 @@ const PhotoSection = () => {
           <CarouselSlider>
             {photo.map((img, index) => (
               <CarouselCard key={index}>
+                {(img.title || img.date) && (
+                  <div className={styles.photoCaption}>
+                    {img.date && <Badge appearance="tint">{img.date}</Badge>}
+                    {img.title && <>{img.title}</>}
+                  </div>
+                )}
+                <p></p>
                 <Image
                   src={`${ASSETS_BASE}photo/${img.filename}`}
                   alt={img.title ?? `Photo ${index + 1}`}
@@ -343,7 +354,6 @@ const PhotoSection = () => {
                   height={400}
                   fit="contain"
                 />
-                {img.title && <p>{img.title}</p>}
               </CarouselCard>
             ))}
           </CarouselSlider>
