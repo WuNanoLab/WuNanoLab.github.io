@@ -6,8 +6,25 @@
         {
             "label": "dev",
             "type": "shell",
-            "command": "bundle exec jekyll serve",
-            "problemMatcher": []
+            "command": "/bin/bash",
+            "args": [
+                "-lc",
+                "bundle exec jekyll serve --livereload"
+            ],
+            "isBackground": true,
+            "problemMatcher": [],
+            "group": {
+                "kind": "build",
+                "isDefault": true
+            }
+        },
+        {
+            "type": "npm",
+            "script": "watch",
+            "path": "react",
+            "problemMatcher": [],
+            "label": "npm: watch - react",
+            "isBackground": true
         },
         {
             "type": "npm",
@@ -21,13 +38,9 @@
             "type": "npm",
             "script": "build",
             "path": "react",
-            "problemMatcher": ["$esbuild"],
+            "problemMatcher": [],
             "label": "npm: build - react",
-            "isBackground": true,
-            "group": {
-                "kind": "build",
-                "isDefault": true
-            }
+            "isBackground": true
         }
     ]
 }
