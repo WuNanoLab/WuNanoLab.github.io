@@ -6,9 +6,13 @@ permalink: publications
 
 ## 2026
 
+*   **[118]** [**A Systematic Framework for Harmonic Set Selection in Multiplexed Magnetic Particle Spectroscopy**](https://iopscience.iop.org/article/10.1088/1361-6463/ae6c34)
+Wang, H., Chugh, V.K., Azizi, E., Zuo, H., He, R., & Wu, K. (2026)
+***Journal of Physics D: Applied Physics***, 59, 205001.
+
 *   **[117]** [**Enhanced ResU-Net for Brain Tumor Segmentation using EfficientNetB0, Channel Attention, and ASPP**](https://iopscience.iop.org/article/10.1088/2057-1976/ae6459)
 Behzadpour, M., Azizi, E., Ortiz, B.L., & Wu, K. (2026)
-***Biomedical Physics & Engineering Express***, xx, xxxx.
+***Biomedical Physics & Engineering Express***, 12, 035017.
 
 *   **[116]** [**A Novel Deep Learning Approach for Breast Tumor Applications Using Histopathological Images**](https://ieeexplore.ieee.org/document/11476675)
 Behzadpour, M., Ortiz, B.L., Azizi, E., Wu, K. (2026)

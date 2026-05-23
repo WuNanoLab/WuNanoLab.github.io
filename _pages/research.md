@@ -4,7 +4,7 @@ title: Research
 permalink: /research/
 ---
 
-## Nanomaterials and Microdevices111111
+## Nanomaterials and Microdevices
 
 ### In-Sensor Computing for Edge AI in Healthcare (2025 - Present)
 
