@@ -146,17 +146,6 @@
     ],
     "undergraduate_students": [
       {
-        "name": "Shreenath Gandhi",
-        "study": "Computer Science (Expt 2025)",
-        "research_topics": "AI for Healthcare.",
-        "email": "shregand@ttu.edu",
-        "awards": [
-          "TrUE Scholar"
-        ],
-        "linkedin": "https://www.linkedin.com/in/shreenathgandhi/",
-        "avatar_filename": "Metallic user icon.png"
-      },
-      {
         "name": "Aniket Avasare",
         "study": "Computer Engineering (Expt 2027)",
         "research_topics": "Magnetic particle imaging.",
@@ -252,6 +241,12 @@
       }
     ],
     "undergraduate_students": [
+      {
+        "name": "Shreenath Gandhi",
+        "department": "CS",
+        "duration": "02/2025-08/2026",
+        "linkedin": "https://www.linkedin.com/in/shreenathgandhi/"
+      },
       {
         "name": "Joyadittya Barno",
         "department": "CS",
