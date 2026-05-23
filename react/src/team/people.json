@@ -160,19 +160,6 @@
         "avatar_filename": "Metallic user icon.png"
       },
       {
-        "name": "Zainab Akano",
-        "study": "Electrical Engineering (Expt 2028)",
-        "research_topics": "AI for Healthcare. Biomedical System Circuit Design.",
-        "email": "zakano@ttu.edu",
-        "awards": [
-          "Presidential Merit Scholarship (2024)",
-          "ECE departmental Scholarship (2024)",
-          "TrUE Scholar"
-        ],
-        "linkedin": "https://www.linkedin.com/in/zainab-a-a44b2431a/",
-        "avatar_filename": "Metallic user icon.png"
-      },
-      {
         "name": "Parth Botre",
         "study": "Computer Science (Expt 2027)",
         "research_topics": "Magnetic Nanoparticles and Applications. AI for Healthcare.",
@@ -252,6 +239,12 @@
         "department": "CS",
         "duration": "02/2025-08/2025",
         "linkedin": "https://www.linkedin.com/in/joyadittya-barno-a859511b0/"
+      },
+      {
+        "name": "Zainab Akano",
+        "department": "EE",
+        "duration": "02/2025-05/2026",
+        "linkedin": "https://www.linkedin.com/in/zainab-a-a44b2431a/"
       },
       {
         "name": "Irkan Khan",
