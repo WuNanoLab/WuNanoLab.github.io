@@ -144,34 +144,14 @@
         "avatar_filename": "Majid Behzadpour.png"
       }
     ],
+    "m.s._students": [
+      {
+        "name": "Position Open"
+      }
+    ],
     "undergraduate_students": [
       {
-        "name": "Aniket Avasare",
-        "study": "Computer Engineering (Expt 2027)",
-        "research_topics": "Magnetic particle imaging.",
-        "email": "aavasare@ttu.edu",
-        "awards": [
-          "Presidential Merit Scholarship (2023–2025)",
-          "Whitacre College of Engineering Scholarship (2025)",
-          "Red Raider Engineering Scholarship (2024)",
-          "TrUE Scholar"
-        ],
-        "linkedin": "https://www.linkedin.com/in/aniketavasare/",
-        "avatar_filename": "Metallic user icon.png"
-      },
-      {
-        "name": "Parth Botre",
-        "study": "Computer Science (Expt 2027)",
-        "research_topics": "Magnetic Nanoparticles and Applications. AI for Healthcare.",
-        "email": "pbotre@ttu.edu",
-        "awards": [
-          "TrUE Scholar",
-          "TTU Craig Chemistry AS Scholarship",
-          "Hulda W. Marshall Chemistry Endowed Scholarship",
-          "Alpha Lambda Delta"
-        ],
-        "linkedin": "https://www.linkedin.com/in/parth-botre/",
-        "avatar_filename": "Metallic user icon.png"
+        "name": "Position Open"
       }
     ],
     "high_school_students": [
@@ -182,20 +162,23 @@
         "avatar_filename": "Metallic user icon.png"
       }
     ]
-    
   },
   "industry_collaborators": [
     {
       "name": "Niranjan A. Natekar",
       "company": "Western Digital Corporation",
       "location": "San Jose, CA, United States of America",
-      "email": "Niranjan.Natekar@wdc.com"
+      "email": "Niranjan.Natekar@wdc.com",
+      "linkedin": "https://www.linkedin.com/in/niranjannatekar/",
+      "google_scholar": "https://scholar.google.com/citations?user=t-HqZncAAAAJ&hl=en&oi=ao"
     },
     {
       "name": "Vinit Kumar Chugh",
       "company": "Seagate Technology LLC",
       "location": "Shakopee, MN, United States of America",
-      "email": "chugh.vinit@gmail.com"
+      "email": "chugh.vinit@gmail.com",
+      "linkedin": "https://www.linkedin.com/in/vinit-k-ch/",
+      "google_scholar": "https://scholar.google.com/citations?user=d-NMeEsAAAAJ&hl=en&oi=ao"
     }
   ],
   "alumni": {
@@ -229,37 +212,62 @@
     ],
     "undergraduate_students": [
       {
-        "name": "Shreenath Gandhi",
-        "department": "CS",
-        "duration": "02/2025-08/2026",
-        "linkedin": "https://www.linkedin.com/in/shreenathgandhi/"
-      },
-      {
         "name": "Joyadittya Barno",
         "department": "CS",
-        "duration": "02/2025-08/2025",
+        "duration": "02/2025-05/2025",
         "linkedin": "https://www.linkedin.com/in/joyadittya-barno-a859511b0/"
       },
       {
-        "name": "Zainab Akano",
-        "department": "EE",
-        "duration": "02/2025-05/2026",
-        "linkedin": "https://www.linkedin.com/in/zainab-a-a44b2431a/"
+        "name": "Shiv Patel",
+        "department": "Biochemistry",
+        "duration": "09/2025-12/2025"
       },
       {
-        "name": "Irkan Khan",
-        "department": "EEE",
-        "duration": "12/2024-08/2025"
+        "name": "Shayan Saud",
+        "department": "CS",
+        "duration": "08/2025-12/2025"
+      },
+      {
+        "name": "Tanveer Siddharth Inamdar",
+        "department": "CE",
+        "duration": "08/2025-12/2025"
       },
       {
         "name": "Anjali Aggarwal",
         "department": "CS",
-        "duration": "05/2025-08/2025"
+        "duration": "06/2025-08/2025"
+      },
+      {
+        "name": "Ritvik Prakash Vailaya",
+        "department": "CS",
+        "duration": "05/2025-05/2026"
+      },
+      {
+        "name": "Parth Botre",
+        "department": "CS",
+        "duration": "05/2025-05/2026",
+        "linkedin": "https://www.linkedin.com/in/parth-botre/"
       },
       {
         "name": "Jagrati Kumari",
         "department": "CE",
         "duration": "05/2025-08/2025"
+      },
+      {
+        "name": "Zainab Akano",
+        "department": "ECE",
+        "duration": "02/2025-12/2025",
+        "linkedin": "https://www.linkedin.com/in/zainab-a-a44b2431a/"
+      },
+      {
+        "name": "Alvin Hossain",
+        "department": "CS",
+        "duration": "1/2025-12/2025"
+      },
+      {
+        "name": "Irkan Khan",
+        "department": "ECE",
+        "duration": "12/2024-08/2025"
       },
       {
         "name": "Jackson Blackmon",
@@ -270,6 +278,18 @@
         "name": "Thao Nguyen",
         "department": "CS",
         "duration": "05/2024-12/2024"
+      },
+      {
+        "name": "Shreenath Gandhi",
+        "department": "CS",
+        "duration": "05/2024-05/2026",
+        "linkedin": "https://www.linkedin.com/in/shreenathgandhi/"
+      },
+      {
+        "name": "Aniket Avasare",
+        "department": "CS",
+        "duration": "05/2024-05/2026",
+        "linkedin": "https://www.linkedin.com/in/aniketavasare/"
       },
       {
         "name": "Robert Sherrick",
@@ -298,7 +318,7 @@
       },
       {
         "name": "Helene Deng",
-        "department": "CE, Tech Intrapreneurship Program",
+        "department": "ECE, Tech Intrapreneurship Program",
         "duration": "09/2022-12/2022"
       }
     ],
