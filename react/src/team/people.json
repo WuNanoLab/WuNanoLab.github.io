@@ -160,6 +160,12 @@
         "school": "Lubbock High School",
         "research_topics": "Surface Plasmon Resonance (SPR) Biosensors. Magnetization Dynamics. AI for Healthcare.",
         "avatar_filename": "Metallic user icon.png"
+      },
+      {
+        "name": "Dhanraj Singh",
+        "school": "Dulles High School",
+        "research_topics": "MTJ-based in-memory and in-sensor computing",
+        "avatar_filename": "Dhanraj.JPG"
       }
     ]
   },
