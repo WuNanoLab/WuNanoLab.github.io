@@ -84,6 +84,10 @@
         "name": "Bahareh Rezaei",
         "study": "Electrical Engineering (Enrolled 2023 Fall)",
         "email": "barezaei@ttu.edu",
+        "education": [
+        "M.S., Isfahan University of Technology (2015-2018)",
+        "B.S., Foulad Institute of Technology (2008-2012)"
+      ],
         "awards": [
           "Russel H. Seacat Scholarship (2023)",
           "TTU Distinguished Graduate Student Assistantship (DGSA, 2023)",
@@ -166,7 +170,8 @@
       {
         "name": "Ebrahim Azizi",
         "study": "Electrical Engineering (Enrolled 2023 Fall)",
-        "email": "eazizi@ttu.edu","education": [
+        "email": "eazizi@ttu.edu",
+        "education": [
           {
             "degree": "M.S.",
             "duration": "2018-2022",
