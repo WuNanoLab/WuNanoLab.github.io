@@ -10,8 +10,16 @@
         "phone": "806.834.0778"
       },
       "education": [
-        "PhD, University of Minnesota (2013 - 2017)",
-        "BS, Northwestern Polytechnical University (2009 - 2013)"
+        {
+          "degree": "Ph.D.",
+          "duration": "2013 - 2017",
+          "university": "University of Minnesota"
+        },
+        {
+          "degree": "B.S.",
+          "duration": "2009 - 2013",
+          "university": "Northwestern Polytechnical University"
+        }
       ],
       "editorial_positions": [
         {
@@ -47,6 +55,7 @@
       ],
       "awards_and_honors": [
         { "year": "2026", "text": "NSF CAREER Award" },
+        { "year": "2026", "text": "Young Investigator Award, Healthcare, MDPI" },
         { "year": "2026", "text": "Rising Stars, Nanotechnology, IOP Publishing" },
         { "year": "2026", "text": "Emerging Investigators, Nanoscale, RSC Publishing" },
         { "year": "2026", "text": "Rising Stars in Materials Science, ACS Materials Au, ACS Publications" },
@@ -74,7 +83,6 @@
       {
         "name": "Bahareh Rezaei",
         "study": "Electrical Engineering (Enrolled 2023 Fall)",
-        "research_topics": "Synthesis, Characterization & Functionalization of Magnetic Nanoparticles; Magnetic Hyperthermia.",
         "email": "barezaei@ttu.edu",
         "awards": [
           "Russel H. Seacat Scholarship (2023)",
@@ -83,6 +91,18 @@
           "ECE Journal Publication Award (2024)",
           "BioMed Journal Club Best Student Presentation Award 2nd Place (2025)"
         ],
+        "education": [
+          {
+            "degree": "M.S.",
+            "duration": "2015-2018",
+            "university": "Isfahan University of Technology"
+          },
+          {
+            "degree": "B.S.",
+            "duration": "2008-2012",
+            "university": "Foulad Institute of Technology"
+          }
+        ],
         "linkedin": "https://www.linkedin.com/in/bahar-rezaei-817a221a5/",
         "google_scholar": "https://scholar.google.com/citations?user=khEQ1XoAAAAJ",
         "avatar_filename": "Bahareh Rezaei_JPG.jpg"
@@ -90,8 +110,19 @@
       {
         "name": "Shahriar Mostufa",
         "study": "Electrical Engineering (Enrolled 2023 Fall)",
-        "research_topics": "Modeling of Plasmonic and Magnetic Biosensors; Magnetic Particle Imaging; Wearable Biosensors.",
         "email": "smostufa@ttu.edu",
+        "education": [
+          {
+            "degree": "M.S.",
+            "duration": "2022-2024",
+            "university": "Texas Tech University"
+          },
+          {
+            "degree": "B.S.",
+            "duration": "2018-2022",
+            "university": "Rajshahi University of Engineering & Technology"
+          }
+        ],
         "awards": [
           "Russel H. Seacat Scholarship (2023)",
           "ECE Journal Publication Award (2024)",
@@ -110,8 +141,19 @@
       {
         "name": "HanLei Wang",
         "study": "Electrical Engineering (Enrolled 2025 Fall)",
-        "research_topics": "Magnetic Particle Imaging; Magnetic Particle Spectroscopy.",
         "email": "hanlwang@ttu.edu",
+        "education": [
+          {
+            "degree": "M.S.",
+            "duration": "2022-2025",
+            "university": "Zhejiang University"
+          },
+          {
+            "degree": "B.S.",
+            "duration": "2018-2022",
+            "university": "Central South University"
+          }
+        ],
         "awards": [
           "TTU Distinguished Graduate Student Assistantship (DGSA, 2025)"
         ],
@@ -124,8 +166,23 @@
       {
         "name": "Ebrahim Azizi",
         "study": "Electrical Engineering (Enrolled 2023 Fall)",
-        "research_topics": "AI for Medical Image and Signal Processing; Magnetic Particle Imaging.",
-        "email": "eazizi@ttu.edu",
+        "email": "eazizi@ttu.edu","education": [
+          {
+            "degree": "M.S.",
+            "duration": "2018-2022",
+            "university": "Politecnico di Milano"
+          },
+          {
+            "degree": "M.S.",
+            "duration": "2011-2013",
+            "university": "University of Isfahan"
+          },
+          {
+            "degree": "B.S.",
+            "duration": "2006-2011",
+            "university": "ValiAsr University of Rafsanjan"
+          }
+        ],
         "awards": [
           "TTU Distinguished Graduate Student Assistantship (DGSA, 2025)"
         ],
@@ -136,7 +193,18 @@
       {
         "name": "Majid Behzadpour",
         "study": "Electrical Engineering (Enrolled 2026 Spring)",
-        "research_topics": "AI for Healthcare.",
+        "education": [
+          {
+            "degree": "M.S.",
+            "duration": "2017-2022",
+            "university": "University of Tehran"
+          },
+          {
+            "degree": "B.S.",
+            "duration": "2013-2015",
+            "university": "Azad University"
+          }
+        ],
         "email": "mbehzadp@ttu.edu",
         "awards": [
           "TTU Distinguished Graduate Student Assistantship (DGSA, 2025)"

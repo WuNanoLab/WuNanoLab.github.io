@@ -182,6 +182,20 @@ const renderEditorialPosition = (position: EditorialPosition) => (
   </div>
 )
 
+const degreeColors = {
+  'Ph.D.': 'severe',
+  'M.S.': 'success',
+  'B.S.': 'warning',
+} as const
+const renderEducationEntry = (edu: NonNullable<Person['education']>[number]) => (
+  <div style={{ display: 'flex', alignItems: 'center', columnGap: '0.5rem' }}>
+    <Badge appearance="outline" color={degreeColors[edu.degree as keyof typeof degreeColors] ?? 'subtle'}>
+      {edu.degree}
+    </Badge>
+    <span>{`${edu.university} (${edu.duration})`}</span>
+  </div>
+)
+
 const FacultySection = () => {
   const styles = useStyles()
   return (
@@ -200,7 +214,7 @@ const FacultySection = () => {
               <b>Education:</b>,
               <ul>
                 {person.education?.map((edu) => (
-                  <li key={edu}>{edu}</li>
+                  <li key={edu.duration}>{renderEducationEntry(edu)}</li>
                 ))}
               </ul>,
               (person.editorial_positions as EditorialPosition[] | undefined)?.length
@@ -259,8 +273,19 @@ const StudentsSection = () => {
                 key={person.name}
                 person={person}
                 lines={[
-                  person.study ?? person.school,
-                  person.research_topics,
+                  person.study ?? person.research_topics ?? person.school,
+                  person.education?.length
+                    ? (
+                      <>
+                        <strong>Education:</strong>
+                        <ul>
+                          {person.education.map((edu) => (
+                            <li key={edu.duration}>{renderEducationEntry(edu)}</li>
+                          ))}
+                        </ul>
+                      </>
+                    )
+                    : undefined,
                   person.awards?.length
                     ? (
                       <>

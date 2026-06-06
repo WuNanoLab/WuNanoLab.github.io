@@ -6,7 +6,11 @@ interface Person extends Record<string, unknown> {
     research_topics?: string
     email?: string
     awards?: string[]
-    education?: string[]
+    education?: Array<{
+        degree: string
+        duration: string
+        university: string
+    }>
     editorial_positions?: Array<{
         label: string
         links: Array<{
