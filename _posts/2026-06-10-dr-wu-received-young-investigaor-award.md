@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Dr. Wu Recognized with the Healthcare Young Investigator Award by MDPI"
-cover-img: /assets/img/MDPI healthcare logo.png
+cover-img: /assets/img/MDPI_Healthcare_Logo.png
 ---
 Dr. Kai Wu has been recognized with the Healthcare "[Young Investigator Award](https://www.mdpi.com/journal/healthcare/awards/3578)" by Healthcare, an MDPI journal.
 The Healthcare Young Investigator Award was established to acknowledge the achievements of early-career investigators in healthcare systems, industry, technology, policy, and regulation. The award recognizes researchers who have produced ground-breaking research and made significant contributions to the advancement of healthcare and sustainable development.
