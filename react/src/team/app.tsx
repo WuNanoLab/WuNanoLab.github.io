@@ -57,11 +57,22 @@ type EditorialPosition = {
   links: EditorialLink[]
 }
 
+const affiliationColors = {
+  TTU: 'danger',
+  USF: 'success',
+} as const
+
 const usePersonaCardStyles = makeStyles({
   secondaryBlock: {
     display: 'grid',
     rowGap: '0.25rem',
     justifyItems: 'flex-start',
+  },
+  primaryText: {
+    display: 'inline-flex',
+    alignItems: 'center',
+    flexWrap: 'wrap',
+    columnGap: '0.5rem',
   },
   metaLine: {
     color: tokens.colorNeutralForeground2,
@@ -95,6 +106,7 @@ const PersonaCard = ({
   const styles = usePersonaCardStyles()
   const email = person.email ?? person.contact?.email
   const phone = person.contact?.phone
+  const affiliation = person.affiliation
   const linkItems = [
     email ? (
       <Link key="email" href={`mailto:${email}`}>
@@ -152,6 +164,16 @@ const PersonaCard = ({
         image: { src: `${ASSETS_BASE}people/${person.avatar_filename}` },
         color: 'colorful',
       } : undefined}
+      primaryText={affiliation
+        ? (
+          <span className={styles.primaryText}>
+            <span>{person.name}</span>
+            <Badge appearance="tint" color={affiliationColors[affiliation as keyof typeof affiliationColors]}>
+              {affiliation}
+            </Badge>
+          </span>
+        )
+        : undefined}
       secondaryText={
         hasContent
           ? <div className={styles.secondaryBlock}>
