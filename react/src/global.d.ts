@@ -11,6 +11,12 @@ interface Person extends Record<string, unknown> {
         duration: string
         university: string
     }>
+    experience?: Array<{
+        title: string
+        department?: string
+        institution: string
+        duration: string
+    }>
     editorial_positions?: Array<{
         label: string
         links: Array<{

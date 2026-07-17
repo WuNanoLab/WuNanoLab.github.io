@@ -218,6 +218,13 @@ const renderEducationEntry = (edu: NonNullable<Person['education']>[number]) => 
   </div>
 )
 
+const renderExperienceEntry = (experience: NonNullable<Person['experience']>[number]) => (
+  <div>
+    {experience.title}, {experience.institution}
+    {experience.department ? `, ${experience.department}` : ''} ({experience.duration})
+  </div>
+)
+
 const FacultySection = () => {
   const styles = useStyles()
   return (
@@ -239,6 +246,20 @@ const FacultySection = () => {
                   <li key={edu.duration}>{renderEducationEntry(edu)}</li>
                 ))}
               </ul>,
+              (person as Person).experience?.length
+                ? (
+                  <>
+                    <strong>Recent Professional Experience:</strong>
+                    <ul>
+                      {(person as Person).experience!.map((experience) => (
+                        <li key={`${experience.duration}-${experience.institution}`}>
+                          {renderExperienceEntry(experience)}
+                        </li>
+                      ))}
+                    </ul>
+                  </>
+                )
+                : undefined,
               (person.editorial_positions as EditorialPosition[] | undefined)?.length
                 ? (
                   <>
@@ -303,6 +324,20 @@ const StudentsSection = () => {
                         <ul>
                           {person.education.map((edu) => (
                             <li key={edu.duration}>{renderEducationEntry(edu)}</li>
+                          ))}
+                        </ul>
+                      </>
+                    )
+                    : undefined,
+                  (person as Person).experience?.length
+                    ? (
+                      <>
+                        <strong>Recent Professional Experience:</strong>
+                        <ul>
+                          {(person as Person).experience!.map((experience) => (
+                            <li key={`${experience.duration}-${experience.institution}`}>
+                              {renderExperienceEntry(experience)}
+                            </li>
                           ))}
                         </ul>
                       </>

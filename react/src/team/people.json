@@ -78,6 +78,46 @@
   ],
   "current_students": {
     "postdocs": [
+      {
+        "name": "Jaesuk Kwon",
+        "affiliation": "USF",
+        "study": "Department of Physics",
+        "email": "jkwon2@usf.edu",
+        "education": [
+          {
+            "degree": "Ph.D.",
+            "duration": "2004 - 2013",
+            "university": "SUNY at Buffalo"
+          },
+          {
+            "degree": "M.S.",
+            "duration": "1999 - 2001",
+            "university": "Korea University"
+          },
+          {
+            "degree": "B.S.",
+            "duration": "1992 - 1999",
+            "university": "Incheon National University"
+          }
+        ],
+        "experience": [
+          {
+            "title": "Postdoctoral Researcher",
+            "department": "ECE Department",
+            "institution": "University of Texas at Austin",
+            "duration": "2021 - 2024"
+          },
+          {
+            "title": "Postdoctoral Researcher",
+            "department": "Physics Department",
+            "institution": "University of Central Florida",
+            "duration": "2019 - 2021"
+          }
+        ],
+        "linkedin": "https://www.linkedin.com/in/jaesuk-kwon-ph-d-27297169/",
+        "google_scholar": "https://scholar.google.com/citations?user=3UHrJ7oAAAAJ",
+        "avatar_filename": "JaesukKwon.png"
+      }
     ],
     "phd_students": [
       {
