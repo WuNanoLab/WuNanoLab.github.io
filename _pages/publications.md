@@ -5,6 +5,13 @@ permalink: publications
 ---
 
 ## 2026
+*   **[120]** [**Dual-functional magnetic nanoparticles: A stochastic Langevin study of imaging-heating trade-offs**](https://journals.aps.org/prb/accepted/10.1103/qqh8-ymn9)
+Azizi, E., Wang, H., Zuo, H., Chugh, V.K., He, R., & Wu, K. (2026)
+***Physical Review B***
+
+*   **[119]** [**Core Size and PEG Coating Govern the Dual Magnetic Particle Imaging and Hyperthermia Performance of Iron Oxide Nanoparticles**](https://doi.org/10.1021/acsabm.6c01122)
+Mostufa, S., Wang, H., Rezaei, B., Shahriar, M., Xu, C., He, R., & Wu, K. (2026)
+***ACS Applied Bio Materials***
 
 *   **[118]** [**A Systematic Framework for Harmonic Set Selection in Multiplexed Magnetic Particle Spectroscopy**](https://iopscience.iop.org/article/10.1088/1361-6463/ae6c34)
 Wang, H., Chugh, V.K., Azizi, E., Zuo, H., He, R., & Wu, K. (2026)
@@ -18,7 +25,7 @@ Behzadpour, M., Azizi, E., Ortiz, B.L., & Wu, K. (2026)
 Behzadpour, M., Ortiz, B.L., Azizi, E., Wu, K. (2026)
 IEEE. In SoutheastCon 2026 (pp. 1-6).
 
-*   **[115]** [**Compositionally tunable (AlxGa1-x)2O3 ultra-wide-bandgap multilayers**](https://www.sciencedirect.com/science/article/pii/S1369800126003021?dgcid=coauthor)
+*   **[115]** [**Compositionally tunable (AlxGa1-x)2O3 ultra-wide-bandgap multilayers**](https://doi.org/10.1016/j.mssp.2026.110706)
 Ho, Y.-C., Ormond, C., Mostufa, S., Gaddy, M., Kuryatkov, V., Wu, K., Bayne, S., Nguyen, H. P. T., Bernussi, A. A. (2026)
 ***Materials Science in Semiconductor Processing***, 210 (2026): 110706.
 
@@ -28,7 +35,7 @@ Mostufa, S., Rezaei, B., Shahriar, M., Paz González, K. M., Kumar, A., Xu, C., 
 
 *   **[113]** [**Noble-metal-free Recyclable Electronic Nanoinks for Wireless Wearable Sensors**](https://pubs.rsc.org/en/content/articlelanding/2026/nr/d5nr04828a)
 Arefin, N., Ofori, K. A. O., Borden, C., Paul, N., Jones, T., Constantinides, N., Wu, K., & Zeng, M. (2026)
-***Nanoscale***, xx, xxxx.
+***Nanoscale***, 18 (15): 8147–8157.
 
 *   **[112]** [**Magnetic Nanoparticle Contrast Agents for MRI: Structure-Property Relationships, In Vivo Applications, and Future Theranostic Directions**](https://iopscience.iop.org/article/10.1088/1361-6528/ae4e33)
 Rezaei, B., Mostufa, S., Paz González, K. M., Azizi, E., Li, C., Gomez-Pastora, J., He, R., & Wu, K. (2026)
@@ -56,74 +63,99 @@ Mostufa, S., Zeng, M., & Wu, K. (2026)
 Seifzadeh, S., Azizi, E., Behzadpour, M., Wu, K., & Kostek. B. (2025)
 **IEEE Access**, 13, 214108 – 214121.
 
-*   **[106]** [**Dilute Magnetic Impurity-Induced Effective Phonon Magnetic Moment in Fe-doped Monolayer MoS2**](https://iopscience.iop.org/ar
-ticle/10.1088/2053-1583/ae04fc/meta)                                                                                                              Mustafa, H., Ye, G., Nnokwe, C.C., Fang, M., Kandil, M., Al-Mahboob, A., Wu, K., Stollenwerk, A.J., Kidd, T.E., Shand, P., Sadowski, J.T.,
- Yang, E.-H., Zhou, Y., He, R., & Jin, W. (2025). ***2D Materials***, 12, 041002.                                                             
+*   **[106]** [**Dilute Magnetic Impurity-Induced Effective Phonon Magnetic Moment in Fe-doped Monolayer MoS2**](https://iopscience.iop.org/article/10.1088/2053-1583/ae04fc/meta)
+Mustafa, H., Ye, G., Nnokwe, C.C., Fang, M., Kandil, M., Al-Mahboob, A., Wu, K., Stollenwerk, A.J., Kidd, T.E., Shand, P., Sadowski, J.T., Yang, E.-H., Zhou, Y., He, R., & Jin, W. (2025). 
+***2D Materials***, 12,041002.                                                             
 
 *   **[105]** [**Effects of Excitation Field Amplitude on Magnetic Particle Imaging Performance: A Modeling Study**](https://iopscience.iop.or
-g/article/10.1088/1361-6463/adeea2)                                                                                                               Azizi, E., Li, C., Gomez-Pastora, J., He, R., & Wu, K. (2025). ***Journal of Physics D: Applied Physics***, 58, 305002.
+g/article/10.1088/1361-6463/adeea2)
+Azizi, E., Li, C., Gomez-Pastora, J., He, R., & Wu, K. (2025). ***Journal of Physics D: Applied Physics***, 58, 305002.
 
 *   **[104]** [**Magnetic-assisted Manipulation of Rare Blood Cells for Diagnosis: A Systematic Review**](https://analyticalsciencejournals.on
-linelibrary.wiley.com/doi/10.1002/bit.70010)                                                                                                      Iyer, P., Wu, X., Choe, H., Tran, L.N.T., González, K.M.P., Rezaei, B., Mostufa, S., Azizi, E., Karampelas, I.H., Wu, K., Chalmers, J., & 
-Gomez-Pastora, J. (2025). ***Biotechnology and Bioengineering***, 2025, 1–41.                                                                 
+linelibrary.wiley.com/doi/10.1002/bit.70010)
+Iyer, P., Wu, X., Choe, H., Tran, L.N.T., González, K.M.P., Rezaei, B., Mostufa, S., Azizi, E., Karampelas, I.H., Wu, K., Chalmers, J., & 
+Gomez-Pastora, J. (2025).
+***Biotechnology and Bioengineering***, 2025, 1–41.                                                                 
 
 *   **[103]** [**Multiplexed Detection in Magnetic Particle Spectroscopy: A Systematic Parameter Analysis**](https://journals.aps.org/prapplie
-d/abstract/10.1103/22cn-nw8t)                                                                                                                     Chugh, V.K., Liang, S., Hopper, M.S., Dey, A., Krishna, V.D., Cheeran, M.C.-J., Wu, K., & Wang, J.-P. (2025). ***Physical Review Applied**
-*, 23, 064021.                                                                                                                                
+d/abstract/10.1103/22cn-nw8t)
+Chugh, V.K., Liang, S., Hopper, M.S., Dey, A., Krishna, V.D., Cheeran, M.C.-J., Wu, K., & Wang, J.-P. (2025). 
+***Physical Review Applied***, 23, 064021.                                                                                                                                
 
 *   **[102]** [**Blood Cell Separation with Magnetic Techniques: A Critical Review**](https://doi.org/10.1039/D5LC00180C)
-    Paz Gonzalez, K. M., Tran, L. N. T., Iyer, P. R., Wu, X., Choe, H., Rezaei, B., Mostufa, S., Azizi, E., Karampelas, I., Zeng, M., Wu, K., 
-Chalmers, J., Gomez-Pastora, J. (2025). ***Lab on a Chip***, 2025, 25, 2521-2565.                                                             
+Paz Gonzalez, K. M., Tran, L. N. T., Iyer, P. R., Wu, X., Choe, H., Rezaei, B., Mostufa, S., Azizi, E., Karampelas, I., Zeng, M., Wu, K., 
+Chalmers, J., Gomez-Pastora, J. (2025). 
+***Lab on a Chip***, 2025, 25, 2521-2565.                                                             
 
 *   **[101]** [**Investigation of Magnetic Nanoparticle Recovery Using A Quadrupole Magnetic Field Via Numerical Simulation and SAXS**](https:
-//www.sciencedirect.com/science/article/abs/pii/S138358662502101X?via%3Dihub)                                                                     Wu, X., Choe, H., Ciannella, S., Paz Gonzalez, K. M., Tran, L. N. T., Iyer, P. R., Yunker, B. A., Karampelas, I. H., Wu, K., Zborowski, M.
-, Wyslouzil, B., Chalmers, J., & Gomez-Pastora, J. (2025). ***Separation and Purification Technology***, 372, 133504.                         
+//www.sciencedirect.com/science/article/abs/pii/S138358662502101X?via%3Dihub)
+Wu, X., Choe, H., Ciannella, S., Paz Gonzalez, K. M., Tran, L. N. T., Iyer, P. R., Yunker, B. A., Karampelas, I. H., Wu, K., Zborowski, M.
+, Wyslouzil, B., Chalmers, J., & Gomez-Pastora, J. (2025).
+***Separation and Purification Technology***, 372, 133504.                         
 
 *   **[100]** [**Origin of Large Effective Phonon Magnetic Moments in Monolayer MoS2**](https://pubs.acs.org/doi/full/10.1021/acsnano.4c18906)
-    Mustafa, H., Nnokwe, C., Ye, G., Fang, M., Chaudhary, S., Yan, J.-A., Wu, K., Cunningham, C. J., Hemesath, C. M., Stollenwerk, A. J., Shan
-d, P. M., Yang, E.-H., Fiete, G. A., He, R., & Jin, W. (2025). ***ACS Nano***, 2025, 19, 11, 11241–11248.                                     
+Mustafa, H., Nnokwe, C., Ye, G., Fang, M., Chaudhary, S., Yan, J.-A., Wu, K., Cunningham, C. J., Hemesath, C. M., Stollenwerk, A. J., Shan
+d, P. M., Yang, E.-H., Fiete, G. A., He, R., & Jin, W. (2025).
+***ACS Nano***, 2025, 19, 11, 11241–11248.                                     
 
 *   **[99]** [**Characterizing the Physicochemical Properties of Magnetic Nanoparticles by A Surface Plasmon Resonance Approach**](https://pub
-s.aip.org/aip/adv/article/15/3/035022/3339540/Characterizing-the-physicochemical-properties-of)                                                   Mostufa, S., Rezaei, B., Azizi, E., Wang, Y. A., Li, C., Gomez-Pastora, J., He, R., & Wu, K. (2025). ***AIP Advances***, 15, 035022.
+s.aip.org/aip/adv/article/15/3/035022/3339540/Characterizing-the-physicochemical-properties-of)
+Mostufa, S., Rezaei, B., Azizi, E., Wang, Y. A., Li, C., Gomez-Pastora, J., He, R., & Wu, K. (2025). 
+***AIP Advances***, 15, 035022.
 
-*   **[98]** [**Numerical Analysis of Hybrid Electromagnetic Coil Designs for Efficient Gradient Field Generation in Magnetic Particle Imaging**](https://pubs.aip.org/aip/adv/article/15/3/035217/3339502/Numerical-analysis-of-hybrid-electromagnetic-coil)                                   Mostufa, S., Azizi, E., Rezaei, B., Li, C., Gomez-Pastora, J., He, R., & Wu, K. (2025). ***AIP Advances***, 15, 035217.
+*   **[98]** [**Numerical Analysis of Hybrid Electromagnetic Coil Designs for Efficient Gradient Field Generation in Magnetic Particle Imaging**](https://pubs.aip.org/aip/adv/article/15/3/035217/3339502/Numerical-analysis-of-hybrid-electromagnetic-coil)
+Mostufa, S., Azizi, E., Rezaei, B., Li, C., Gomez-Pastora, J., He, R., & Wu, K. (2025).
+***AIP Advances***, 15, 035217.
 
 *   **[97]** [**Trajectory Analysis of Single Magnetic Bead Under Elliptical Cylindrical Magnet and Rotating Field**](https://www.sciencedirec
-t.com/science/article/pii/S0304885325001659)                                                                                                      Li, R., Sun, J., Shi, Z., Zhao, R., Liu, X., Xin, S., Wang, N., Shui, X., Du, W., & Wu, K. (2025). ***Journal of Magnetism and Magnetic Ma
-terials***, 620, 172934.                                                                                                                      
+t.com/science/article/pii/S0304885325001659)
+Li, R., Sun, J., Shi, Z., Zhao, R., Liu, X., Xin, S., Wang, N., Shui, X., Du, W., & Wu, K. (2025). 
+***Journal of Magnetism and Magnetic Materials***, 620, 172934.                                                                                                                      
 
 *   **[96]** [**Micromagnetic Stimulation (μMS) Controls Dopamine Release: An in vivo Study Using WINCS Harmoni**](https://iopscience.iop.org/
-article/10.1088/2057-1976/adbaf9)                                                                                                                 Saha, R., Goyal, A., Yuen, J., Oh, Y., Bloom, R., Benally, O. J., Wu, K., Netoff, T. I., Low, W. C., Bennet, K., Lee, K. H., Shin, H., & W
-ang, J.-P. (2025). ***Biomedical Physics & Engineering Express***, 11, 025058.                                                                
+article/10.1088/2057-1976/adbaf9)
+Saha, R., Goyal, A., Yuen, J., Oh, Y., Bloom, R., Benally, O. J., Wu, K., Netoff, T. I., Low, W. C., Bennet, K., Lee, K. H., Shin, H., & Wang, J.-P. (2025). 
+***Biomedical Physics & Engineering Express***, 11, 025058.                                                                
 
 *   **[95]** [**Perspective: Magnetic Quantum Sensors for Biomedical Applications**](https://iopscience.iop.org/article/10.1088/1361-6528/adb6
-35) (HOT)                                                                                                                                         Wu, K., He, R. (2025). ***Nanotechnology***, 36, 152501.
+35)
+Wu, K., He, R. (2025). 
+***Nanotechnology***, 36, 152501.
 
 *   **[94]** [**Study and Optimization on Hyperthermia Performance of Magnetic Fluids Modeled by Coupled Brownian-Néel Rotations**](https://pu
-bs.aip.org/aip/jap/article/137/5/054702/3334091/Study-and-optimization-on-hyperthermia-performance?searchresult=1)                                Xin, S., Sun, J., Shi, Z., Li, R., Liu, X., Wang, N., Weaver, J.B., & Wu, K. (2025). ***Journal of Applied Physics***, 137, 054702.
+bs.aip.org/aip/jap/article/137/5/054702/3334091/Study-and-optimization-on-hyperthermia-performance?searchresult=1)
+Xin, S., Sun, J., Shi, Z., Li, R., Liu, X., Wang, N., Weaver, J.B., & Wu, K. (2025). 
+***Journal of Applied Physics***, 137, 054702.
 
 *   **[93]** [**Computational Predictions on the Magnetic Particle Imaging Performance of Tracers Subjected to Magnetic Dipole-Dipole Interact
-ions**](https://ieeexplore.ieee.org/document/10870345)                                                                                            Azizi, E., Mostufa, S., Rezaei, B., Xin, S., Sun, J., Shi, Z., Gomez-Pastora, J., & Wu, K. (2025). ***IEEE Transactions on Magnetics***, 2
+ions**](https://ieeexplore.ieee.org/document/10870345)
+Azizi, E., Mostufa, S., Rezaei, B., Xin, S., Sun, J., Shi, Z., Gomez-Pastora, J., & Wu, K. (2025). 
+***IEEE Transactions on Magnetics***, 2
 025, 61, 9, 6500405.                                                                                                                          
 
 *   **[92]** [**Tuning the Magnetic Properties of CrI3 Using Ni Thin Film Deposition for Applications in Spintronic Devices**](https://pubs.ac
-s.org/doi/full/10.1021/acsanm.4c06641)                                                                                                            Nnokwe, C., Cunningham, C. J., Liu, W., Ye, G., Nguyen, T., Wu, K., Hemesath, C., Sadler, C., Lukashev, P., Zhai, Z., Lv, B., Yan, J.-A., 
-Shand, P. M., Stollenwerk, A. J., & He, R. (2025). ***ACS Applied Nano Materials***, 2025, 8, 5, 2412–2420.                                   
+s.org/doi/full/10.1021/acsanm.4c06641)
+Nnokwe, C., Cunningham, C. J., Liu, W., Ye, G., Nguyen, T., Wu, K., Hemesath, C., Sadler, C., Lukashev, P., Zhai, Z., Lv, B., Yan, J.-A., 
+Shand, P. M., Stollenwerk, A. J., & He, R. (2025). 
+***ACS Applied Nano Materials***, 2025, 8, 5, 2412–2420.                                   
 
 *   **[91]** [**Applying Stochastic Langevin Function with Coupled Brownian-Néel Relaxations to Study the Dynamic Magnetizations of Nanopartic
-le Tracers in Magnetic Particle Imaging**](https://iopscience.iop.org/article/10.1088/1361-6463/adafbd)                                           Azizi, E., Mostufa, S., Rezaei, B., Xin, S., Sun, J., Shi, Z., Gomez-Pastora, J., & Wu, K. (2025). ***Journal of Physics D: Applied Physic
+le Tracers in Magnetic Particle Imaging**](https://iopscience.iop.org/article/10.1088/1361-6463/adafbd)
+Azizi, E., Mostufa, S., Rezaei, B., Xin, S., Sun, J., Shi, Z., Gomez-Pastora, J., & Wu, K. (2025). 
+***Journal of Physics D: Applied Physic
 s***, 58, 135002.                                                                                                                             
-
 *   **[90]** [**Investigation on the Magnetic Hyperthermia Performance of Commercial Iron Oxide Magnetic Nanoparticles**](https://ieeexplore.i
 eee.org/document/10855549)                                                                                                                        Rezaei, B., Mostufa, S., Azizi, E., Wang, Y. A., Li, C., Gomez-Pastora, J., He, R., & Wu, K. (2025). ***IEEE Transactions on Magnetics***,
  2025, 61, 9, 5400305.                                                                                                                        
 
 *   **[89]** [**Effect of Tracer Size Distribution on Magnetic Particle Imaging Performance**](https://iopscience.iop.org/article/10.1088/1402
--4896/adab46)                                                                                                                                     Azizi, E., Rezaei, B., Mostufa, S., Liang, S., Wang, Y. A., Chugh, V., Wang, J.-P., Li, C., Gomez-Pastora, J., He, R., & Wu, K. (2025). **
+-4896/adab46)
+Azizi, E., Rezaei, B., Mostufa, S., Liang, S., Wang, Y. A., Chugh, V., Wang, J.-P., Li, C., Gomez-Pastora, J., He, R., & Wu, K. (2025). **
 *Physica Scripta***, 100, 025529.                                                                                                             
 
 *   **[88]** [**Printing Rare-Earth-Free (REF) Magnetic Inks: Synthesis, Formulation, and Device Applications**](https://pubs.rsc.org/en/conte
-nt/articlelanding/2025/nr/d4nr04035j)                                                                                                             Moni, H.-E., Rezaei, B., Karampelas, I. H., Saeidi-Javash, M., Gómez-Pastora, J., Wu, K. & Zeng, M. (2025). ***Nanoscale***, 2025,17, 4830
+nt/articlelanding/2025/nr/d4nr04035j)
+Moni, H.-E., Rezaei, B., Karampelas, I. H., Saeidi-Javash, M., Gómez-Pastora, J., Wu, K. & Zeng, M. (2025). ***Nanoscale***, 2025,17, 4830
 -4853.                                                                                                                                        
 
 *   **[87]** [**Ultrasensitive Terahertz Metamaterial Sensor Based on Planar Metal-Insulator-Metal Structure**](https://ieeexplore.ieee.org/do
