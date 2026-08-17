@@ -11,7 +11,7 @@ Azizi, E., Wang, H., Zuo, H., Chugh, V.K., He, R., & Wu, K. (2026)
 
 *   **[119]** [**Core Size and PEG Coating Govern the Dual Magnetic Particle Imaging and Hyperthermia Performance of Iron Oxide Nanoparticles**](https://doi.org/10.1021/acsabm.6c01122)
 Mostufa, S., Wang, H., Rezaei, B., Shahriar, M., Xu, C., He, R., & Wu, K. (2026)
-***ACS Applied Bio Materials***
+***ACS Applied Bio Materials***, 9 (16): 7671–7681.
 
 *   **[118]** [**A Systematic Framework for Harmonic Set Selection in Multiplexed Magnetic Particle Spectroscopy**](https://iopscience.iop.org/article/10.1088/1361-6463/ae6c34)
 Wang, H., Chugh, V.K., Azizi, E., Zuo, H., He, R., & Wu, K. (2026)
