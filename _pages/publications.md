@@ -5,6 +5,11 @@ permalink: publications
 ---
 
 ## 2026
+
+*   **[121]** [**Perspective: Magnetic Tunnel Junctions for In-sensor Computing**](https://iopscience.iop.org/article/10.1088/2399-1984/ae9c10)
+Wu, K., Azizi, E., Natekar, N. A., Wang, H., Wu, Y., & He, R. (2026)
+***Nano Futures***
+
 *   **[120]** [**Dual-functional magnetic nanoparticles: A stochastic Langevin study of imaging-heating trade-offs**](https://journals.aps.org/prb/accepted/10.1103/qqh8-ymn9)
 Azizi, E., Wang, H., Zuo, H., Chugh, V.K., He, R., & Wu, K. (2026)
 ***Physical Review B***
