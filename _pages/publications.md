@@ -4,6 +4,12 @@ title: Publications
 permalink: publications
 ---
 
+## Preprints
+
+- Rezaei, B.; Shahriar, M.; Mostufa, S.; González, K. M. P.; Tran, N. T. L.; Xu, C.; Gómez-Pastora, J.; Wu, K. (2026) *Shape- and Cation-Engineered Ferrite Nanoparticles for Enhanced Theranostic Performance in Ovarian Cancer Tumor-Mimicking Phantom.* [arXiv:2609.14720](https://doi.org/10.48550/arXiv.2609.14720).
+
+- Wang, H.; Rezaei, B.; Shahriar, M.; Xu, C.; He, R.; Wu, K. (2026) *Magnetic Particle Spectroscopy for Detecting Cell-Associated Zinc Ferrite Nanoparticles and Probing Their Relaxation Dynamics.* [arXiv:2609.14162](https://doi.org/10.48550/arXiv.2609.14162).
+
 ## 2026
 
 *   **[121]** [**Perspective: Magnetic Tunnel Junctions for In-sensor Computing**](https://iopscience.iop.org/article/10.1088/2399-1984/ae9c10)
