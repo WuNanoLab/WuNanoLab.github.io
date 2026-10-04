@@ -282,6 +282,12 @@
         "school": "Dulles High School",
         "research_topics": "MTJ-based in-memory and in-sensor computing",
         "avatar_filename": "Dhanraj.JPG"
+      },
+      {
+        "name": "Ziquan (Dennis) Wang",
+        "school": "Grandview Heights Secondary School, Surrey, BC, Canada",
+        "research_topics": "GPU programming and information processing",
+        "avatar_filename": "Ziquan.png"
       }
     ]
   },
