@@ -117,6 +117,25 @@
         "linkedin": "https://www.linkedin.com/in/jaesuk-kwon-ph-d-27297169/",
         "google_scholar": "https://scholar.google.com/citations?user=3UHrJ7oAAAAJ",
         "avatar_filename": "JaesukKwon.png"
+      },
+      {
+        "name": "Hussam Mustafa",
+        "study": "Department of Physics",
+        "education": [
+          {
+            "degree": "Ph.D.",
+            "duration": "2021 - 2026",
+            "university": "Auburn University"
+          },
+          {
+            "degree": "B.S.",
+            "duration": "2016 - 2021",
+            "university": "Georgia Southern University"
+          }
+        ],
+        "google_scholar": "https://scholar.google.com/citations?user=GPxuU6YAAAAJ",
+        "linkedin": "https://www.linkedin.com/in/hussam-mustafa-a712683b6/",
+        "avatar_filename": "Hussam.jpg"
       }
     ],
     "phd_students": [
