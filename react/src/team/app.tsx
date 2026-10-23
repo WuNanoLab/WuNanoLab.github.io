@@ -316,7 +316,10 @@ const StudentsSection = () => {
                 key={person.name}
                 person={person}
                 lines={[
-                  person.study ?? person.research_topics ?? person.school,
+                  person.school
+                    ? `${person.school}${person.joined ? ` (Joined lab in ${person.joined})` : ''}`
+                    : undefined,
+                  person.study ?? person.research_topics,
                   person.education?.length
                     ? (
                       <>

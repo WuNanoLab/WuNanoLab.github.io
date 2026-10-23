@@ -32,6 +32,7 @@ interface Person extends Record<string, unknown> {
     linkedin?: string
     google_scholar?: string
     school?: string
+    joined?: string
     duration?: string
     company?: string
     location?: string

@@ -282,18 +282,21 @@
       {
         "name": "Hansong Zuo",
         "school": "Lubbock High School",
+        "joined": "2025",
         "research_topics": "Surface Plasmon Resonance (SPR) Biosensors. Magnetization Dynamics. AI for Healthcare.",
         "avatar_filename": "Metallic user icon.png"
       },
       {
         "name": "Dhanraj Singh",
         "school": "Dulles High School",
+        "joined": "2026",
         "research_topics": "MTJ-based in-memory and in-sensor computing",
         "avatar_filename": "Dhanraj.JPG"
       },
       {
         "name": "Ziquan (Dennis) Wang",
         "school": "Grandview Heights Secondary School, Surrey, BC, Canada",
+        "joined": "2026",
         "research_topics": "GPU programming and information processing",
         "avatar_filename": "Ziquan.png"
       }
@@ -304,7 +307,6 @@
       "name": "Niranjan A. Natekar",
       "company": "Western Digital Corporation",
       "location": "San Jose, CA, United States of America",
-      "email": "Niranjan.Natekar@wdc.com",
       "linkedin": "https://www.linkedin.com/in/niranjannatekar/",
       "google_scholar": "https://scholar.google.com/citations?user=t-HqZncAAAAJ&hl=en&oi=ao"
     },
@@ -312,12 +314,18 @@
       "name": "Vinit Kumar Chugh",
       "company": "Seagate Technology LLC",
       "location": "Shakopee, MN, United States of America",
-      "email": "chugh.vinit@gmail.com",
       "linkedin": "https://www.linkedin.com/in/vinit-k-ch/",
       "google_scholar": "https://scholar.google.com/citations?user=d-NMeEsAAAAJ&hl=en&oi=ao"
+    },
+    {
+      "name": "Ramesh Choudhary",
+      "company": "Seagate Technology LLC",
+      "location": "Shakopee, MN, United States of America",
+      "linkedin": "https://www.linkedin.com/in/ramesh-choudhary/",
+      "google_scholar": "https://scholar.google.com/citations?hl=en&user=3P_gjA8AAAAJ"
     }
   ],
-  "alumni": {
+"alumni": {
     "ms_students": [
       {
         "name": "Mohammad Al Amin",
