@@ -224,12 +224,41 @@
         "linkedin": "https://www.linkedin.com/in/hanlei-wang-71201a2a3/",
         "google_scholar": "https://scholar.google.com/citations?user=HQn1jbAAAAAJ",
         "avatar_filename": "Hanlei.jpg"
+      },
+      {
+        "name": "Duthika Seneviratne",
+        "affiliation": "USF",
+        "study": "Department of Physics (Enrolled 2027 Spring)",
+        "email": "dmseneviratne@usf.edu",
+        "education": [
+          {
+            "degree": "B.S.",
+            "duration": "2022-2026",
+            "university": "University of Colombo"
+          }
+        ],
+        "linkedin": "https://www.linkedin.com/in/duthikaseneviratne-9975352a9",
+        "avatar_filename": "Duthika Seneviratne.jpeg"
+      },
+      {
+        "name": "Kalhara Herath",
+        "affiliation": "USF",
+        "study": "Department of Physics (Enrolled 2027 Spring)",
+        "email": "kgbherath@usf.edu",
+        "education": [
+          {
+            "degree": "B.S.",
+            "duration": "2022-2026",
+            "university": "University of Colombo"
+          }
+        ],
+        "linkedin": "https://www.linkedin.com/in/kalharaherath/",
+        "avatar_filename": "Kalhara Herath.jpg"
       }
     ],
-    "phd_students_remote":[
+    "visiting_scholars": [
       {
         "name": "Ebrahim Azizi",
-        "affiliation": "USF",
         "study": "Electrical Engineering (Enrolled 2023 Fall)",
         "email": "eazizi@ttu.edu",
         "education": [
@@ -258,7 +287,6 @@
       },
       {
         "name": "Majid Behzadpour",
-        "affiliation": "USF",
         "study": "Electrical Engineering (Enrolled 2026 Spring)",
         "education": [
           {
