@@ -100,20 +100,6 @@
             "university": "Incheon National University"
           }
         ],
-        "experience": [
-          {
-            "title": "Postdoctoral Researcher",
-            "department": "ECE Department",
-            "institution": "University of Texas at Austin",
-            "duration": "2021 - 2024"
-          },
-          {
-            "title": "Postdoctoral Researcher",
-            "department": "Physics Department",
-            "institution": "University of Central Florida",
-            "duration": "2019 - 2021"
-          }
-        ],
         "linkedin": "https://www.linkedin.com/in/jaesuk-kwon-ph-d-27297169/",
         "google_scholar": "https://scholar.google.com/citations?user=3UHrJ7oAAAAJ",
         "avatar_filename": "JaesukKwon.png"
@@ -146,13 +132,6 @@
         "affiliation": "TTU",
         "study": "Electrical Engineering (Enrolled 2023 Fall)",
         "email": "barezaei@ttu.edu",
-        "awards": [
-          "Russel H. Seacat Scholarship (2023)",
-          "TTU Distinguished Graduate Student Assistantship (DGSA, 2023)",
-          "BioMed Journal Club Best Student Presentation Award 2nd Place (2023)",
-          "ECE Journal Publication Award (2024)",
-          "BioMed Journal Club Best Student Presentation Award 2nd Place (2025)"
-        ],
         "education": [
           {
             "degree": "M.S.",
@@ -186,17 +165,6 @@
             "university": "Rajshahi University of Engineering & Technology"
           }
         ],
-        "awards": [
-          "Russel H. Seacat Scholarship (2023)",
-          "ECE Journal Publication Award (2024)",
-          "Seacat Endowment Scholarship (2024)",
-          "BioMed Journal Club Best Student Presentation Award 3rd Place (2024)",
-          "​TTU Graduate Student Travel Fund (2025)",
-          "TTU Graduate Student Travel Fund (2026)",
-          "College of Engineering Graduate Student Travel Grant (2026)",
-          "TTU Horn Distinguished Professors Graduate Achievement Award (2026)",
-          "ECE Top PhD Student Award (2026)"
-        ],
         "linkedin": "https://www.linkedin.com/in/shahriar-mostufa/",
         "google_scholar": "https://scholar.google.com/citations?user=0LdoWwgAAAAJ",
         "avatar_filename": "Shahriar Mostufa.png"
@@ -217,9 +185,6 @@
             "duration": "2018-2022",
             "university": "Central South University"
           }
-        ],
-        "awards": [
-          "TTU Distinguished Graduate Student Assistantship (DGSA, 2025)"
         ],
         "linkedin": "https://www.linkedin.com/in/hanlei-wang-71201a2a3/",
         "google_scholar": "https://scholar.google.com/citations?user=HQn1jbAAAAAJ",
@@ -278,9 +243,6 @@
             "university": "ValiAsr University of Rafsanjan"
           }
         ],
-        "awards": [
-          "TTU Distinguished Graduate Student Assistantship (DGSA, 2025)"
-        ],
         "linkedin": "https://www.linkedin.com/in/ebrahim-azizi-67b6a679/",
         "google_scholar": "https://scholar.google.com/citations?user=4GrLeBUAAAAJ",
         "avatar_filename": "Ebrahim.jpeg"
@@ -301,9 +263,6 @@
           }
         ],
         "email": "mbehzadp@ttu.edu",
-        "awards": [
-          "TTU Distinguished Graduate Student Assistantship (DGSA, 2025)"
-        ],
         "linkedin": "https://www.linkedin.com/in/majid-behzadpour-6124431a1/?originalSubdomain=ir",
         "google_scholar": "https://scholar.google.com/citations?user=kKI8m4YAAAAJ",
         "avatar_filename": "Majid Behzadpour.png"
