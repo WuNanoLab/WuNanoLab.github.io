@@ -18,7 +18,7 @@ Rezaei, B., Wang, H., Molinares Ponce, M., Shahriar, M., Paz González, K. M., T
 
 *   **[122]** [**Magnetic Nanoparticle Transducers for Magnetogenetics: Materials Design, Biointerfaces, and Transduction Mechanisms**](https://doi.org/10.1021/acsanm.6c02937)
 Wang, H., Zuo, H., He, R., & Wu, K. (2026)
-***ACS Applied Nano Materials***.
+***ACS Applied Nano Materials***, 9 (42): 19570–19606.
 
 *   **[121]** [**Perspective: Magnetic Tunnel Junctions for In-sensor Computing**](https://iopscience.iop.org/article/10.1088/2399-1984/ae9c10)
 Wu, K., Azizi, E., Natekar, N. A., Wang, H., Wu, Y., & He, R. (2026)
