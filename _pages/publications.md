@@ -12,6 +12,10 @@ permalink: publications
 
 ## 2026
 
+*   **[123]** [**Size and Zinc Substitution Govern the MPI and MRI Performance of Ferrite Nanoparticle Tracers**](https://doi.org/10.1021/acsmaterialsau.6c00147)
+Rezaei, B., Wang, H., Molinares Ponce, M., Shahriar, M., Paz González, K. M., Tran, L. N. T., Chugh, V. K., Xu, C., Gómez-Pastora, J., He, R., & Wu, K. (2026)
+***ACS Materials Au***.
+
 *   **[122]** [**Magnetic Nanoparticle Transducers for Magnetogenetics: Materials Design, Biointerfaces, and Transduction Mechanisms**](https://doi.org/10.1021/acsanm.6c02937)
 Wang, H., Zuo, H., He, R., & Wu, K. (2026)
 ***ACS Applied Nano Materials***.
