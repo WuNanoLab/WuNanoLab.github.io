@@ -106,6 +106,7 @@ const PersonaCard = ({
   const styles = usePersonaCardStyles()
   const email = person.email ?? person.contact?.email
   const phone = person.contact?.phone
+  const office = person.contact?.office
   const affiliation = person.affiliation
   const linkItems = [
     email ? (
@@ -151,6 +152,13 @@ const PersonaCard = ({
       return line
     })
     .filter(line => !!line)
+  if (office) {
+    infoLines.push(
+      <>
+        <strong>Office:</strong> {office}
+      </>
+    )
+  }
   const hasContent = infoLines.length > 0 || linkItems.length > 0
 
   return (

@@ -83,6 +83,9 @@
         "affiliation": "USF",
         "study": "Department of Physics",
         "email": "jkwon2@usf.edu",
+        "contact": {
+          "office": "ISA 5111"
+        },
         "education": [
           {
             "degree": "Ph.D.",
@@ -109,6 +112,9 @@
         "affiliation": "USF",
         "study": "Department of Physics",
         "email": "hussammustafa@usf.edu",
+        "contact": {
+          "office": "ISA 5116"
+        },
         "education": [
           {
             "degree": "Ph.D.",
