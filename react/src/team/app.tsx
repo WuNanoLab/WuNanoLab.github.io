@@ -306,10 +306,10 @@ const StudentsSection = () => {
   const subsections: Array<[string, Person[]]> = [
     ['Postdoctoral Researchers', people.current_students.postdocs],
     ['Ph.D. Students', people.current_students.phd_students],
-    ['Visiting Scholars', people.current_students.visiting_scholars],
     ['M.S. Students', people.current_students.ms_students],
     ['Undergraduate Students', people.current_students.undergraduate_students],
     ['High School Students', people.current_students.high_school_students],
+    ['Visiting Scholars', people.current_students.visiting_scholars],
   ]
 
   return (
